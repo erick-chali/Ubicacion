@@ -1,0 +1,1271 @@
+﻿<?xml version="1.0"?>
+<configuration date="2015/06/25" author="e.World Technology Ltd.">
+<project id="{61E4280F-6622-4502-933A-764E36139766}" file="" name="project1" product="PHPMaker" version="11.0" datetime="2015/06/25 11:55:05" languagefolder="phplang" userlevel="">
+<table id="_avisos" name="_avisos" caption=" avisos" userlevel="" priv="1"/>
+<table id="_BusinessObjectProperties" name="_BusinessObjectProperties" caption=" Business Object Properties" userlevel="" priv="1"/>
+<table id="_BusinessObjectProperties24" name="_BusinessObjectProperties$" caption=" Business Object Properties$" userlevel="" priv="1"/>
+<table id="_BusinessObjects" name="_BusinessObjects" caption=" Business Objects" userlevel="" priv="1"/>
+<table id="_BusinessObjects24" name="_BusinessObjects$" caption=" Business Objects$" userlevel="" priv="1"/>
+<table id="_Groups" name="_Groups" caption=" Groups" userlevel="" priv="1"/>
+<table id="_GrupoApp" name="_GrupoApp" caption=" Grupo App" userlevel="" priv="1"/>
+<table id="_LogEntry" name="_LogEntry" caption=" Log Entry" userlevel="" priv="1"/>
+<table id="_Opciones" name="_Opciones" caption=" Opciones" userlevel="" priv="1"/>
+<table id="_OpcionesGroups" name="_OpcionesGroups" caption=" Opciones Groups" userlevel="" priv="1"/>
+<table id="_OpcionesSubGrupo" name="_OpcionesSubGrupo" caption=" Opciones Sub Grupo" userlevel="" priv="1"/>
+<table id="_Privileges" name="_Privileges" caption=" Privileges" userlevel="" priv="1"/>
+<table id="_SubGrupoApp" name="_SubGrupoApp" caption=" Sub Grupo App" userlevel="" priv="1"/>
+<table id="_UserGroups" name="_UserGroups" caption=" User Groups" userlevel="" priv="1"/>
+<table id="_Users" name="_Users" caption=" Users" userlevel="" priv="1"/>
+<table id="abonosacreedores" name="abonosacreedores" caption="abonosacreedores" userlevel="" priv="1"/>
+<table id="abonotemporal" name="abonotemporal" caption="abonotemporal" userlevel="" priv="1"/>
+<table id="abonotemporal2" name="abonotemporal2" caption="abonotemporal 2" userlevel="" priv="1"/>
+<table id="acre" name="acre" caption="acre" userlevel="" priv="1"/>
+<table id="acree_millenium" name="acree_millenium" caption="acree millenium" userlevel="" priv="1"/>
+<table id="acreedores" name="acreedores" caption="acreedores" userlevel="" priv="1"/>
+<table id="Actions" name="Actions" caption="Actions" userlevel="" priv="1"/>
+<table id="af_activos_campos" name="af_activos_campos" caption="af activos campos" userlevel="" priv="1"/>
+<table id="af_bitacora_partidas" name="af_bitacora_partidas" caption="af bitacora partidas" userlevel="" priv="1"/>
+<table id="af_campos_definidos" name="af_campos_definidos" caption="af campos definidos" userlevel="" priv="1"/>
+<table id="af_campos_valores" name="af_campos_valores" caption="af campos valores" userlevel="" priv="1"/>
+<table id="af_catalogo_activos" name="af_catalogo_activos" caption="af catalogo activos" userlevel="" priv="1"/>
+<table id="af_depreciaciones" name="af_depreciaciones" caption="af depreciaciones" userlevel="" priv="1"/>
+<table id="af_depreciaciones_det" name="af_depreciaciones_det" caption="af depreciaciones det" userlevel="" priv="1"/>
+<table id="af_generales" name="af_generales" caption="af generales" userlevel="" priv="1"/>
+<table id="af_grupos_contables" name="af_grupos_contables" caption="af grupos contables" userlevel="" priv="1"/>
+<table id="af_movimientos_cta" name="af_movimientos_cta" caption="af movimientos cta" userlevel="" priv="1"/>
+<table id="af_movimientos_det" name="af_movimientos_det" caption="af movimientos det" userlevel="" priv="1"/>
+<table id="af_movimientos_enc" name="af_movimientos_enc" caption="af movimientos enc" userlevel="" priv="1"/>
+<table id="af_periodos" name="af_periodos" caption="af periodos" userlevel="" priv="1"/>
+<table id="af_polizas" name="af_polizas" caption="af polizas" userlevel="" priv="1"/>
+<table id="af_polizas_activos" name="af_polizas_activos" caption="af polizas activos" userlevel="" priv="1"/>
+<table id="af_reevaluaciones" name="af_reevaluaciones" caption="af reevaluaciones" userlevel="" priv="1"/>
+<table id="af_reevaluaciones_det" name="af_reevaluaciones_det" caption="af reevaluaciones det" userlevel="" priv="1"/>
+<table id="af_saldos_activos" name="af_saldos_activos" caption="af saldos activos" userlevel="" priv="1"/>
+<table id="af_secciones" name="af_secciones" caption="af secciones" userlevel="" priv="1"/>
+<table id="af_tipos_activos" name="af_tipos_activos" caption="af tipos activos" userlevel="" priv="1"/>
+<table id="af_tipos_movimiento" name="af_tipos_movimiento" caption="af tipos movimiento" userlevel="" priv="1"/>
+<table id="af_toma_invfisico" name="af_toma_invfisico" caption="af toma invfisico" userlevel="" priv="1"/>
+<table id="af_toma_invfisico_det" name="af_toma_invfisico_det" caption="af toma invfisico det" userlevel="" priv="1"/>
+<table id="af_ubicaciones" name="af_ubicaciones" caption="af ubicaciones" userlevel="" priv="1"/>
+<table id="afimport_EquipoComputo" name="afimport_EquipoComputo" caption="afimport Equipo Computo" userlevel="" priv="1"/>
+<table id="afimport_herramientas" name="afimport_herramientas" caption="afimport herramientas" userlevel="" priv="1"/>
+<table id="afimport_MobEquipo" name="afimport_MobEquipo" caption="afimport Mob Equipo" userlevel="" priv="1"/>
+<table id="afimport_vehiculos" name="afimport_vehiculos" caption="afimport vehiculos" userlevel="" priv="1"/>
+<table id="Authorizations" name="Authorizations" caption="Authorizations" userlevel="" priv="1"/>
+<table id="bitacorabancos" name="bitacorabancos" caption="bitacorabancos" userlevel="" priv="1"/>
+<table id="bitacorabancosbk" name="bitacorabancosbk" caption="bitacorabancosbk" userlevel="" priv="1"/>
+<table id="bitacorabancosCopia" name="bitacorabancosCopia" caption="bitacorabancos Copia" userlevel="" priv="1"/>
+<table id="bn_ajustes_diferencial" name="bn_ajustes_diferencial" caption="bn ajustes diferencial" userlevel="" priv="1"/>
+<table id="bn_bancos" name="bn_bancos" caption="bn bancos" userlevel="" priv="1"/>
+<table id="bn_bitacora_lote_temp" name="bn_bitacora_lote_temp" caption="bn bitacora lote temp" userlevel="" priv="1"/>
+<table id="bn_bitacora_partidas_lote" name="bn_bitacora_partidas_lote" caption="bn bitacora partidas lote" userlevel="" priv="1"/>
+<table id="bn_bitacorafac_det" name="bn_bitacorafac_det" caption="bn bitacorafac det" userlevel="" priv="1"/>
+<table id="bn_bitacorafac_enc" name="bn_bitacorafac_enc" caption="bn bitacorafac enc" userlevel="" priv="1"/>
+<table id="bn_cajas" name="bn_cajas" caption="bn cajas" userlevel="" priv="1"/>
+<table id="bn_cajas_liquidacion" name="bn_cajas_liquidacion" caption="bn cajas liquidacion" userlevel="" priv="1"/>
+<table id="bn_cehques_cargostmp" name="bn_cehques_cargostmp" caption="bn cehques cargostmp" userlevel="" priv="1"/>
+<table id="bn_cheques_anticipos" name="bn_cheques_anticipos" caption="bn cheques anticipos" userlevel="" priv="1"/>
+<table id="bn_cheques_cargos" name="bn_cheques_cargos" caption="bn cheques cargos" userlevel="" priv="1"/>
+<table id="bn_cheques_det" name="bn_cheques_det" caption="bn cheques det" userlevel="" priv="1"/>
+<table id="bn_cheques_dettmp" name="bn_cheques_dettmp" caption="bn cheques dettmp" userlevel="" priv="1"/>
+<table id="bn_cheques_enc" name="bn_cheques_enc" caption="bn cheques enc" userlevel="" priv="1"/>
+<table id="bn_cheques_facturas" name="bn_cheques_facturas" caption="bn cheques facturas" userlevel="" priv="1"/>
+<table id="bn_cheques_notas" name="bn_cheques_notas" caption="bn cheques notas" userlevel="" priv="1"/>
+<table id="bn_concepto_gasto" name="bn_concepto_gasto" caption="bn concepto gasto" userlevel="" priv="1"/>
+<table id="bn_conciliacion_det" name="bn_conciliacion_det" caption="bn conciliacion det" userlevel="" priv="1"/>
+<table id="bn_conciliacion_enc" name="bn_conciliacion_enc" caption="bn conciliacion enc" userlevel="" priv="1"/>
+<table id="bn_cuentas" name="bn_cuentas" caption="bn cuentas" userlevel="" priv="1"/>
+<table id="bn_cuentas_saldos" name="bn_cuentas_saldos" caption="bn cuentas saldos" userlevel="" priv="1"/>
+<table id="bn_facturas_cajas" name="bn_facturas_cajas" caption="bn facturas cajas" userlevel="" priv="1"/>
+<table id="bn_facturas_ctas" name="bn_facturas_ctas" caption="bn facturas ctas" userlevel="" priv="1"/>
+<table id="bn_facturas_esp" name="bn_facturas_esp" caption="bn facturas esp" userlevel="" priv="1"/>
+<table id="bn_generales" name="bn_generales" caption="bn generales" userlevel="" priv="1"/>
+<table id="bn_movimientos_anticipos" name="bn_movimientos_anticipos" caption="bn movimientos anticipos" userlevel="" priv="1"/>
+<table id="bn_movimientos_cargos" name="bn_movimientos_cargos" caption="bn movimientos cargos" userlevel="" priv="1"/>
+<table id="bn_movimientos_cc" name="bn_movimientos_cc" caption="bn movimientos cc" userlevel="" priv="1"/>
+<table id="bn_movimientos_che" name="bn_movimientos_che" caption="bn movimientos che" userlevel="" priv="1"/>
+<table id="bn_movimientos_det" name="bn_movimientos_det" caption="bn movimientos det" userlevel="" priv="1"/>
+<table id="bn_movimientos_documentos" name="bn_movimientos_documentos" caption="bn movimientos documentos" userlevel="" priv="1"/>
+<table id="bn_movimientos_enc" name="bn_movimientos_enc" caption="bn movimientos enc" userlevel="" priv="1"/>
+<table id="bn_partidas_generadas" name="bn_partidas_generadas" caption="bn partidas generadas" userlevel="" priv="1"/>
+<table id="bn_periodos" name="bn_periodos" caption="bn periodos" userlevel="" priv="1"/>
+<table id="bn_productos_cajas_fac" name="bn_productos_cajas_fac" caption="bn productos cajas fac" userlevel="" priv="1"/>
+<table id="bn_reclasificaciones" name="bn_reclasificaciones" caption="bn reclasificaciones" userlevel="" priv="1"/>
+<table id="bn_solicitud_cheque" name="bn_solicitud_cheque" caption="bn solicitud cheque" userlevel="" priv="1"/>
+<table id="bn_tipo_documentos" name="bn_tipo_documentos" caption="bn tipo documentos" userlevel="" priv="1"/>
+<table id="bn_tipos_movimiento" name="bn_tipos_movimiento" caption="bn tipos movimiento" userlevel="" priv="1"/>
+<table id="bn_tmp_documentosimpresos" name="bn_tmp_documentosimpresos" caption="bn tmp documentosimpresos" userlevel="" priv="1"/>
+<table id="Bolivar" name="Bolivar" caption="Bolivar" userlevel="" priv="1"/>
+<table id="ca_cajas" name="ca_cajas" caption="ca cajas" userlevel="" priv="1"/>
+<table id="ca_movimientosp_enc" name="ca_movimientosp_enc" caption="ca movimientosp enc" userlevel="" priv="1"/>
+<table id="CambiaCliente" name="CambiaCliente" caption="Cambia Cliente" userlevel="" priv="1"/>
+<table id="CargaInicial" name="CargaInicial" caption="Carga Inicial" userlevel="" priv="1"/>
+<table id="cc_abonos_ajustes" name="cc_abonos_ajustes" caption="cc abonos ajustes" userlevel="" priv="1"/>
+<table id="cc_abonos_cheque" name="cc_abonos_cheque" caption="cc abonos cheque" userlevel="" priv="1"/>
+<table id="cc_abonos_det" name="cc_abonos_det" caption="cc abonos det" userlevel="" priv="1"/>
+<table id="cc_abonos_enc" name="cc_abonos_enc" caption="cc abonos enc" userlevel="" priv="1"/>
+<table id="cc_abonos_pagos" name="cc_abonos_pagos" caption="cc abonos pagos" userlevel="" priv="1"/>
+<table id="cc_abonos_prefechados_che" name="cc_abonos_prefechados_che" caption="cc abonos prefechados che" userlevel="" priv="1"/>
+<table id="cc_abonos_prefechados_det" name="cc_abonos_prefechados_det" caption="cc abonos prefechados det" userlevel="" priv="1"/>
+<table id="cc_abonos_prefechados_enc" name="cc_abonos_prefechados_enc" caption="cc abonos prefechados enc" userlevel="" priv="1"/>
+<table id="cc_abonos_tarjeta" name="cc_abonos_tarjeta" caption="cc abonos tarjeta" userlevel="" priv="1"/>
+<table id="cc_actividades" name="cc_actividades" caption="cc actividades" userlevel="" priv="1"/>
+<table id="cc_actividades_clientes" name="cc_actividades_clientes" caption="cc actividades clientes" userlevel="" priv="1"/>
+<table id="cc_auxctasapagar" name="cc_auxctasapagar" caption="cc auxctasapagar" userlevel="" priv="1"/>
+<table id="cc_calculo_mora" name="cc_calculo_mora" caption="cc calculo mora" userlevel="" priv="1"/>
+<table id="cc_campos_clientes" name="cc_campos_clientes" caption="cc campos clientes" userlevel="" priv="1"/>
+<table id="cc_campos_definidos" name="cc_campos_definidos" caption="cc campos definidos" userlevel="" priv="1"/>
+<table id="cc_cargos_det" name="cc_cargos_det" caption="cc cargos det" userlevel="" priv="1"/>
+<table id="cc_cargos_enc" name="cc_cargos_enc" caption="cc cargos enc" userlevel="" priv="1"/>
+<table id="cc_cargos_pagos" name="cc_cargos_pagos" caption="cc cargos pagos" userlevel="" priv="1"/>
+<table id="cc_carteras" name="cc_carteras" caption="cc carteras" userlevel="" priv="1"/>
+<table id="cc_carteras_cliente" name="cc_carteras_cliente" caption="cc carteras cliente" userlevel="" priv="1"/>
+<table id="cc_cheques_rechazados" name="cc_cheques_rechazados" caption="cc cheques rechazados" userlevel="" priv="1"/>
+<table id="cc_clasificacioncliente" name="cc_clasificacioncliente" caption="cc clasificacioncliente" userlevel="" priv="1"/>
+<table id="cc_clasificaciones" name="cc_clasificaciones" caption="cc clasificaciones" userlevel="" priv="1"/>
+<table id="cc_clientes" name="cc_clientes" caption="cc clientes" userlevel="" priv="1"/>
+<table id="cc_clientes_rechazos" name="cc_clientes_rechazos" caption="cc clientes rechazos" userlevel="" priv="1"/>
+<table id="cc_cobradores" name="cc_cobradores" caption="cc cobradores" userlevel="" priv="1"/>
+<table id="cc_contactos_cliente" name="cc_contactos_cliente" caption="cc contactos cliente" userlevel="" priv="1"/>
+<table id="cc_correlativos_movimientos" name="cc_correlativos_movimientos" caption="cc correlativos movimientos" userlevel="" priv="1"/>
+<table id="cc_correlativos_tipo" name="cc_correlativos_tipo" caption="cc correlativos tipo" userlevel="" priv="1"/>
+<table id="cc_dias_credito" name="cc_dias_credito" caption="cc dias credito" userlevel="" priv="1"/>
+<table id="cc_generales" name="cc_generales" caption="cc generales" userlevel="" priv="1"/>
+<table id="cc_grupo_cliente" name="cc_grupo_cliente" caption="cc grupo cliente" userlevel="" priv="1"/>
+<table id="cc_lista_campos" name="cc_lista_campos" caption="cc lista campos" userlevel="" priv="1"/>
+<table id="cc_motivos_rechazos" name="cc_motivos_rechazos" caption="cc motivos rechazos" userlevel="" priv="1"/>
+<table id="cc_negocios" name="cc_negocios" caption="cc negocios" userlevel="" priv="1"/>
+<table id="cc_operaciones" name="cc_operaciones" caption="cc operaciones" userlevel="" priv="1"/>
+<table id="cc_partidas_gen" name="cc_partidas_gen" caption="cc partidas gen" userlevel="" priv="1"/>
+<table id="cc_periodos" name="cc_periodos" caption="cc periodos" userlevel="" priv="1"/>
+<table id="cc_periodos_log" name="cc_periodos_log" caption="cc periodos log" userlevel="" priv="1"/>
+<table id="cc_profesiones_contac" name="cc_profesiones_contac" caption="cc profesiones contac" userlevel="" priv="1"/>
+<table id="cc_puestos_contactos" name="cc_puestos_contactos" caption="cc puestos contactos" userlevel="" priv="1"/>
+<table id="cc_saldos_cliente" name="cc_saldos_cliente" caption="cc saldos cliente" userlevel="" priv="1"/>
+<table id="cc_saldos_cltecartera" name="cc_saldos_cltecartera" caption="cc saldos cltecartera" userlevel="" priv="1"/>
+<table id="cc_saldos_mencartera" name="cc_saldos_mencartera" caption="cc saldos mencartera" userlevel="" priv="1"/>
+<table id="cc_saldos_mensuales" name="cc_saldos_mensuales" caption="cc saldos mensuales" userlevel="" priv="1"/>
+<table id="cc_saldos_negocios" name="cc_saldos_negocios" caption="cc saldos negocios" userlevel="" priv="1"/>
+<table id="cc_tipos_cliente" name="cc_tipos_cliente" caption="cc tipos cliente" userlevel="" priv="1"/>
+<table id="cc_tipos_movimiento" name="cc_tipos_movimiento" caption="cc tipos movimiento" userlevel="" priv="1"/>
+<table id="cc_tipos_pago" name="cc_tipos_pago" caption="cc tipos pago" userlevel="" priv="1"/>
+<table id="cc_tmp_estadocuenta" name="cc_tmp_estadocuenta" caption="cc tmp estadocuenta" userlevel="" priv="1"/>
+<table id="cc_tmp_saldos" name="cc_tmp_saldos" caption="cc tmp saldos" userlevel="" priv="1"/>
+<table id="cc_tmp_vencimiento" name="cc_tmp_vencimiento" caption="cc tmp vencimiento" userlevel="" priv="1"/>
+<table id="Cheques" name="Cheques" caption="Cheques" userlevel="" priv="1"/>
+<table id="cj_bitacora_partidas" name="cj_bitacora_partidas" caption="cj bitacora partidas" userlevel="" priv="1"/>
+<table id="cj_cajas" name="cj_cajas" caption="cj cajas" userlevel="" priv="1"/>
+<table id="cj_cajeros" name="cj_cajeros" caption="cj cajeros" userlevel="" priv="1"/>
+<table id="cj_cierres_caja" name="cj_cierres_caja" caption="cj cierres caja" userlevel="" priv="1"/>
+<table id="cj_cierres_caja_traslados" name="cj_cierres_caja_traslados" caption="cj cierres caja traslados" userlevel="" priv="1"/>
+<table id="cj_correlativo_serie" name="cj_correlativo_serie" caption="cj correlativo serie" userlevel="" priv="1"/>
+<table id="cj_correlativo_tipo" name="cj_correlativo_tipo" caption="cj correlativo tipo" userlevel="" priv="1"/>
+<table id="cj_correlativos" name="cj_correlativos" caption="cj correlativos" userlevel="" priv="1"/>
+<table id="cj_depositos" name="cj_depositos" caption="cj depositos" userlevel="" priv="1"/>
+<table id="cj_depositos_det" name="cj_depositos_det" caption="cj depositos det" userlevel="" priv="1"/>
+<table id="cj_depositos_det_traslados" name="cj_depositos_det_traslados" caption="cj depositos det traslados" userlevel="" priv="1"/>
+<table id="cj_depositos_partida" name="cj_depositos_partida" caption="cj depositos partida" userlevel="" priv="1"/>
+<table id="cj_depositos_traslados" name="cj_depositos_traslados" caption="cj depositos traslados" userlevel="" priv="1"/>
+<table id="cj_facturasAnuladas" name="cj_facturasAnuladas" caption="cj facturas Anuladas" userlevel="" priv="1"/>
+<table id="cj_facturasCredito" name="cj_facturasCredito" caption="cj facturas Credito" userlevel="" priv="1"/>
+<table id="cj_facturascredito_traslados" name="cj_facturascredito_traslados" caption="cj facturascredito traslados" userlevel="" priv="1"/>
+<table id="cj_motivos_cobro" name="cj_motivos_cobro" caption="cj motivos cobro" userlevel="" priv="1"/>
+<table id="cj_NotasCredito" name="cj_NotasCredito" caption="cj Notas Credito" userlevel="" priv="1"/>
+<table id="cj_notascredito_traslados" name="cj_notascredito_traslados" caption="cj notascredito traslados" userlevel="" priv="1"/>
+<table id="cj_NotasDebito" name="cj_NotasDebito" caption="cj Notas Debito" userlevel="" priv="1"/>
+<table id="cj_notasdebito_traslados" name="cj_notasdebito_traslados" caption="cj notasdebito traslados" userlevel="" priv="1"/>
+<table id="cj_operadores_cheque" name="cj_operadores_cheque" caption="cj operadores cheque" userlevel="" priv="1"/>
+<table id="cj_otros_tipospago" name="cj_otros_tipospago" caption="cj otros tipospago" userlevel="" priv="1"/>
+<table id="cj_pago_cheque" name="cj_pago_cheque" caption="cj pago cheque" userlevel="" priv="1"/>
+<table id="cj_pago_cheque_traslados" name="cj_pago_cheque_traslados" caption="cj pago cheque traslados" userlevel="" priv="1"/>
+<table id="cj_pago_documentos" name="cj_pago_documentos" caption="cj pago documentos" userlevel="" priv="1"/>
+<table id="cj_pago_documentos_traslados" name="cj_pago_documentos_traslados" caption="cj pago documentos traslados" userlevel="" priv="1"/>
+<table id="cj_pago_efectivo" name="cj_pago_efectivo" caption="cj pago efectivo" userlevel="" priv="1"/>
+<table id="cj_pago_efectivo_traslados" name="cj_pago_efectivo_traslados" caption="cj pago efectivo traslados" userlevel="" priv="1"/>
+<table id="cj_pago_tarjeta" name="cj_pago_tarjeta" caption="cj pago tarjeta" userlevel="" priv="1"/>
+<table id="cj_pago_tarjeta_traslados" name="cj_pago_tarjeta_traslados" caption="cj pago tarjeta traslados" userlevel="" priv="1"/>
+<table id="cj_partidas_cierres" name="cj_partidas_cierres" caption="cj partidas cierres" userlevel="" priv="1"/>
+<table id="cj_partidas_det" name="cj_partidas_det" caption="cj partidas det" userlevel="" priv="1"/>
+<table id="cj_partidas_enc" name="cj_partidas_enc" caption="cj partidas enc" userlevel="" priv="1"/>
+<table id="cj_recibos_cc" name="cj_recibos_cc" caption="cj recibos cc" userlevel="" priv="1"/>
+<table id="cj_recibos_cheque" name="cj_recibos_cheque" caption="cj recibos cheque" userlevel="" priv="1"/>
+<table id="cj_recibos_det" name="cj_recibos_det" caption="cj recibos det" userlevel="" priv="1"/>
+<table id="cj_recibos_documentos" name="cj_recibos_documentos" caption="cj recibos documentos" userlevel="" priv="1"/>
+<table id="cj_recibos_efectivo" name="cj_recibos_efectivo" caption="cj recibos efectivo" userlevel="" priv="1"/>
+<table id="cj_recibos_enc" name="cj_recibos_enc" caption="cj recibos enc" userlevel="" priv="1"/>
+<table id="cj_recibos_tarjeta" name="cj_recibos_tarjeta" caption="cj recibos tarjeta" userlevel="" priv="1"/>
+<table id="cj_tipos_recibos" name="cj_tipos_recibos" caption="cj tipos recibos" userlevel="" priv="1"/>
+<table id="Clockings" name="Clockings" caption="Clockings" userlevel="" priv="1"/>
+<table id="cn_catalogo_auxiliares" name="cn_catalogo_auxiliares" caption="cn catalogo auxiliares" userlevel="" priv="1"/>
+<table id="cn_catalogo_centros" name="cn_catalogo_centros" caption="cn catalogo centros" userlevel="" priv="1"/>
+<table id="cn_catalogo_cuentas" name="cn_catalogo_cuentas" caption="cn catalogo cuentas" userlevel="" priv="1"/>
+<table id="cn_catalogo_def" name="cn_catalogo_def" caption="cn catalogo def" userlevel="" priv="1"/>
+<table id="cn_centros_detalle" name="cn_centros_detalle" caption="cn centros detalle" userlevel="" priv="1"/>
+<table id="cn_configuracion" name="cn_configuracion" caption="cn configuracion" userlevel="" priv="1"/>
+<table id="cn_configuracion_centros" name="cn_configuracion_centros" caption="cn configuracion centros" userlevel="" priv="1"/>
+<table id="cn_configuracion_det" name="cn_configuracion_det" caption="cn configuracion det" userlevel="" priv="1"/>
+<table id="cn_correlativo_periodos" name="cn_correlativo_periodos" caption="cn correlativo periodos" userlevel="" priv="1"/>
+<table id="cn_correlativo_tipos" name="cn_correlativo_tipos" caption="cn correlativo tipos" userlevel="" priv="1"/>
+<table id="cn_hojatrabajo_det" name="cn_hojatrabajo_det" caption="cn hojatrabajo det" userlevel="" priv="1"/>
+<table id="cn_hojatrabajo_enc" name="cn_hojatrabajo_enc" caption="cn hojatrabajo enc" userlevel="" priv="1"/>
+<table id="cn_partidas_det" name="cn_partidas_det" caption="cn partidas det" userlevel="" priv="1"/>
+<table id="cn_partidas_enc" name="cn_partidas_enc" caption="cn partidas enc" userlevel="" priv="1"/>
+<table id="cn_plantillas_det" name="cn_plantillas_det" caption="cn plantillas det" userlevel="" priv="1"/>
+<table id="cn_plantillas_enc" name="cn_plantillas_enc" caption="cn plantillas enc" userlevel="" priv="1"/>
+<table id="cn_presupuesto_centros" name="cn_presupuesto_centros" caption="cn presupuesto centros" userlevel="" priv="1"/>
+<table id="cn_presupuesto_cuentas" name="cn_presupuesto_cuentas" caption="cn presupuesto cuentas" userlevel="" priv="1"/>
+<table id="cn_presupuesto_cuentas_per" name="cn_presupuesto_cuentas_per" caption="cn presupuesto cuentas per" userlevel="" priv="1"/>
+<table id="cn_presupuesto_det" name="cn_presupuesto_det" caption="cn presupuesto det" userlevel="" priv="1"/>
+<table id="cn_presupuesto_detallado" name="cn_presupuesto_detallado" caption="cn presupuesto detallado" userlevel="" priv="1"/>
+<table id="cn_presupuesto_enc" name="cn_presupuesto_enc" caption="cn presupuesto enc" userlevel="" priv="1"/>
+<table id="cn_presupuesto_meses" name="cn_presupuesto_meses" caption="cn presupuesto meses" userlevel="" priv="1"/>
+<table id="cn_presupuesto_periodos" name="cn_presupuesto_periodos" caption="cn presupuesto periodos" userlevel="" priv="1"/>
+<table id="cn_presupuesto_tasas" name="cn_presupuesto_tasas" caption="cn presupuesto tasas" userlevel="" priv="1"/>
+<table id="cn_saldos_auxcentros" name="cn_saldos_auxcentros" caption="cn saldos auxcentros" userlevel="" priv="1"/>
+<table id="cn_saldos_auxiliares" name="cn_saldos_auxiliares" caption="cn saldos auxiliares" userlevel="" priv="1"/>
+<table id="cn_saldos_centros" name="cn_saldos_centros" caption="cn saldos centros" userlevel="" priv="1"/>
+<table id="cn_saldos_mensuales" name="cn_saldos_mensuales" caption="cn saldos mensuales" userlevel="" priv="1"/>
+<table id="cn_tipos_partidas" name="cn_tipos_partidas" caption="cn tipos partidas" userlevel="" priv="1"/>
+<table id="co_ajustes_costos" name="co_ajustes_costos" caption="co ajustes costos" userlevel="" priv="1"/>
+<table id="co_ajustes_det" name="co_ajustes_det" caption="co ajustes det" userlevel="" priv="1"/>
+<table id="co_ajustes_enc" name="co_ajustes_enc" caption="co ajustes enc" userlevel="" priv="1"/>
+<table id="co_autcompradores" name="co_autcompradores" caption="co autcompradores" userlevel="" priv="1"/>
+<table id="co_autorizadores" name="co_autorizadores" caption="co autorizadores" userlevel="" priv="1"/>
+<table id="co_compradores" name="co_compradores" caption="co compradores" userlevel="" priv="1"/>
+<table id="co_compradores_dep" name="co_compradores_dep" caption="co compradores dep" userlevel="" priv="1"/>
+<table id="co_correlativo_prov" name="co_correlativo_prov" caption="co correlativo prov" userlevel="" priv="1"/>
+<table id="co_correlativos_ord" name="co_correlativos_ord" caption="co correlativos ord" userlevel="" priv="1"/>
+<table id="co_embarques" name="co_embarques" caption="co embarques" userlevel="" priv="1"/>
+<table id="co_embarques_cos" name="co_embarques_cos" caption="co embarques cos" userlevel="" priv="1"/>
+<table id="co_embarques_ord" name="co_embarques_ord" caption="co embarques ord" userlevel="" priv="1"/>
+<table id="co_embarques_prod" name="co_embarques_prod" caption="co embarques prod" userlevel="" priv="1"/>
+<table id="co_enviosi_costos" name="co_enviosi_costos" caption="co enviosi costos" userlevel="" priv="1"/>
+<table id="co_enviosi_det" name="co_enviosi_det" caption="co enviosi det" userlevel="" priv="1"/>
+<table id="co_enviosi_enc" name="co_enviosi_enc" caption="co enviosi enc" userlevel="" priv="1"/>
+<table id="co_estadisticas_tmp" name="co_estadisticas_tmp" caption="co estadisticas tmp" userlevel="" priv="1"/>
+<table id="co_generales" name="co_generales" caption="co generales" userlevel="" priv="1"/>
+<table id="co_historico_precios" name="co_historico_precios" caption="co historico precios" userlevel="" priv="1"/>
+<table id="co_items" name="co_items" caption="co items" userlevel="" priv="1"/>
+<table id="co_items_envio" name="co_items_envio" caption="co items envio" userlevel="" priv="1"/>
+<table id="co_mov_armado" name="co_mov_armado" caption="co mov armado" userlevel="" priv="1"/>
+<table id="co_operadores" name="co_operadores" caption="co operadores" userlevel="" priv="1"/>
+<table id="co_ordenesi_costos" name="co_ordenesi_costos" caption="co ordenesi costos" userlevel="" priv="1"/>
+<table id="co_ordenesi_det" name="co_ordenesi_det" caption="co ordenesi det" userlevel="" priv="1"/>
+<table id="co_ordenesi_enc" name="co_ordenesi_enc" caption="co ordenesi enc" userlevel="" priv="1"/>
+<table id="co_ordenesi_seg" name="co_ordenesi_seg" caption="co ordenesi seg" userlevel="" priv="1"/>
+<table id="co_ordenesl_con" name="co_ordenesl_con" caption="co ordenesl con" userlevel="" priv="1"/>
+<table id="co_ordenesl_con_bajar" name="co_ordenesl_con_bajar" caption="co ordenesl con bajar" userlevel="" priv="1"/>
+<table id="co_ordenesl_con_envio" name="co_ordenesl_con_envio" caption="co ordenesl con envio" userlevel="" priv="1"/>
+<table id="co_ordenesl_det" name="co_ordenesl_det" caption="co ordenesl det" userlevel="" priv="1"/>
+<table id="co_ordenesl_det_bajar" name="co_ordenesl_det_bajar" caption="co ordenesl det bajar" userlevel="" priv="1"/>
+<table id="co_ordenesl_det_envio" name="co_ordenesl_det_envio" caption="co ordenesl det envio" userlevel="" priv="1"/>
+<table id="co_ordenesl_enc" name="co_ordenesl_enc" caption="co ordenesl enc" userlevel="" priv="1"/>
+<table id="co_ordenesl_enc_bajar" name="co_ordenesl_enc_bajar" caption="co ordenesl enc bajar" userlevel="" priv="1"/>
+<table id="co_ordenesl_enc_envio" name="co_ordenesl_enc_envio" caption="co ordenesl enc envio" userlevel="" priv="1"/>
+<table id="co_ordenesl_pag" name="co_ordenesl_pag" caption="co ordenesl pag" userlevel="" priv="1"/>
+<table id="co_ordenesl_pag_bajar" name="co_ordenesl_pag_bajar" caption="co ordenesl pag bajar" userlevel="" priv="1"/>
+<table id="co_ordenesl_pag_envio" name="co_ordenesl_pag_envio" caption="co ordenesl pag envio" userlevel="" priv="1"/>
+<table id="co_ordenesl_py" name="co_ordenesl_py" caption="co ordenesl py" userlevel="" priv="1"/>
+<table id="co_ordenesl_py_bajar" name="co_ordenesl_py_bajar" caption="co ordenesl py bajar" userlevel="" priv="1"/>
+<table id="co_ordenesl_py_envio" name="co_ordenesl_py_envio" caption="co ordenesl py envio" userlevel="" priv="1"/>
+<table id="co_periodos" name="co_periodos" caption="co periodos" userlevel="" priv="1"/>
+<table id="co_proveeautorizado" name="co_proveeautorizado" caption="co proveeautorizado" userlevel="" priv="1"/>
+<table id="co_proveedor_producto" name="co_proveedor_producto" caption="co proveedor producto" userlevel="" priv="1"/>
+<table id="co_recibos_corr" name="co_recibos_corr" caption="co recibos corr" userlevel="" priv="1"/>
+<table id="co_recibos_notas" name="co_recibos_notas" caption="co recibos notas" userlevel="" priv="1"/>
+<table id="co_recibos_notas_det" name="co_recibos_notas_det" caption="co recibos notas det" userlevel="" priv="1"/>
+<table id="co_recibos_notas_inv" name="co_recibos_notas_inv" caption="co recibos notas inv" userlevel="" priv="1"/>
+<table id="co_recibos_sc_det" name="co_recibos_sc_det" caption="co recibos sc det" userlevel="" priv="1"/>
+<table id="co_recibos_sc_enc" name="co_recibos_sc_enc" caption="co recibos sc enc" userlevel="" priv="1"/>
+<table id="co_recibosi_det" name="co_recibosi_det" caption="co recibosi det" userlevel="" priv="1"/>
+<table id="co_recibosi_enc" name="co_recibosi_enc" caption="co recibosi enc" userlevel="" priv="1"/>
+<table id="co_seguimientos" name="co_seguimientos" caption="co seguimientos" userlevel="" priv="1"/>
+<table id="co_tipo_compras" name="co_tipo_compras" caption="co tipo compras" userlevel="" priv="1"/>
+<table id="co_tipo_documentos" name="co_tipo_documentos" caption="co tipo documentos" userlevel="" priv="1"/>
+<table id="co_tipos_costo" name="co_tipos_costo" caption="co tipos costo" userlevel="" priv="1"/>
+<table id="co_usuarios_bodega" name="co_usuarios_bodega" caption="co usuarios bodega" userlevel="" priv="1"/>
+<table id="co_vias_despacho" name="co_vias_despacho" caption="co vias despacho" userlevel="" priv="1"/>
+<table id="COMPUTO" name="COMPUTO" caption="COMPUTO" userlevel="" priv="1"/>
+<table id="Computo_AlcanceInventario" name="Computo_AlcanceInventario" caption="Computo Alcance Inventario" userlevel="" priv="1"/>
+<table id="computo_cctmpEstadoCuenta" name="computo_cctmpEstadoCuenta" caption="computo cctmp Estado Cuenta" userlevel="" priv="1"/>
+<table id="Computo_ComparaPrecioTdaMayoreo" name="Computo_ComparaPrecioTdaMayoreo" caption="Computo Compara Precio Tda Mayoreo" userlevel="" priv="1"/>
+<table id="computo_correcostos" name="computo_correcostos" caption="computo correcostos" userlevel="" priv="1"/>
+<table id="Computo_CuboVentas" name="Computo_CuboVentas" caption="Computo Cubo Ventas" userlevel="" priv="1"/>
+<table id="Computo_ExportarFacturasGFACE" name="Computo_ExportarFacturasGFACE" caption="Computo Exportar Facturas GFACE" userlevel="" priv="1"/>
+<table id="Computo_FacturasConEnvio" name="Computo_FacturasConEnvio" caption="Computo Facturas Con Envio" userlevel="" priv="1"/>
+<table id="Computo_FacturasconNC" name="Computo_FacturasconNC" caption="Computo Facturascon NC" userlevel="" priv="1"/>
+<table id="computo_in_datos_Rpt_tomafisica" name="computo_in_datos_Rpt_tomafisica" caption="computo in datos Rpt tomafisica" userlevel="" priv="1"/>
+<table id="computo_in_existencias_corr" name="computo_in_existencias_corr" caption="computo in existencias corr" userlevel="" priv="1"/>
+<table id="computo_InvGeneral_InfoListado" name="computo_InvGeneral_InfoListado" caption="computo Inv General Info Listado" userlevel="" priv="1"/>
+<table id="Computo_ListadoMayoreo" name="Computo_ListadoMayoreo" caption="Computo Listado Mayoreo" userlevel="" priv="1"/>
+<table id="computo_lstpreciosmayoreo" name="computo_lstpreciosmayoreo" caption="computo lstpreciosmayoreo" userlevel="" priv="1"/>
+<table id="Computo_MarcajesPorFecha" name="Computo_MarcajesPorFecha" caption="Computo Marcajes Por Fecha" userlevel="" priv="1"/>
+<table id="computopvfacturasinv" name="computopvfacturasinv" caption="computopvfacturasinv" userlevel="" priv="1"/>
+<table id="computopvfacturasinvanul" name="computopvfacturasinvanul" caption="computopvfacturasinvanul" userlevel="" priv="1"/>
+<table id="computopvncreditoinv" name="computopvncreditoinv" caption="computopvncreditoinv" userlevel="" priv="1"/>
+<table id="Costos_Actuales" name="Costos_Actuales" caption="Costos Actuales" userlevel="" priv="1"/>
+<table id="costos1" name="costos1" caption="costos 1" userlevel="" priv="1"/>
+<table id="costos2" name="costos2" caption="costos 2" userlevel="" priv="1"/>
+<table id="CostosDetallados" name="CostosDetallados" caption="Costos Detallados" userlevel="" priv="1"/>
+<table id="cp_abonos_a_cuenta" name="cp_abonos_a_cuenta" caption="cp abonos a cuenta" userlevel="" priv="1"/>
+<table id="cp_abonos_a_cuenta_cta" name="cp_abonos_a_cuenta_cta" caption="cp abonos a cuenta cta" userlevel="" priv="1"/>
+<table id="cp_abonos_a_cuenta_pry" name="cp_abonos_a_cuenta_pry" caption="cp abonos a cuenta pry" userlevel="" priv="1"/>
+<table id="cp_abonos_abonos" name="cp_abonos_abonos" caption="cp abonos abonos" userlevel="" priv="1"/>
+<table id="cp_abonos_aplicados" name="cp_abonos_aplicados" caption="cp abonos aplicados" userlevel="" priv="1"/>
+<table id="cp_abonos_cargos" name="cp_abonos_cargos" caption="cp abonos cargos" userlevel="" priv="1"/>
+<table id="cp_abonos_cargos_tmp" name="cp_abonos_cargos_tmp" caption="cp abonos cargos tmp" userlevel="" priv="1"/>
+<table id="cp_abonosacuenta_anul" name="cp_abonosacuenta_anul" caption="cp abonosacuenta anul" userlevel="" priv="1"/>
+<table id="cp_abonosacuenta_anulctas" name="cp_abonosacuenta_anulctas" caption="cp abonosacuenta anulctas" userlevel="" priv="1"/>
+<table id="cp_anticipos" name="cp_anticipos" caption="cp anticipos" userlevel="" priv="1"/>
+<table id="cp_auxanticipos" name="cp_auxanticipos" caption="cp auxanticipos" userlevel="" priv="1"/>
+<table id="cp_auxautorizacion" name="cp_auxautorizacion" caption="cp auxautorizacion" userlevel="" priv="1"/>
+<table id="cp_auxctasapagar" name="cp_auxctasapagar" caption="cp auxctasapagar" userlevel="" priv="1"/>
+<table id="cp_auxgeneraunpago" name="cp_auxgeneraunpago" caption="cp auxgeneraunpago" userlevel="" priv="1"/>
+<table id="cp_bitacora_partidas_lote" name="cp_bitacora_partidas_lote" caption="cp bitacora partidas lote" userlevel="" priv="1"/>
+<table id="cp_bitacora_partidas_lote_Backup" name="cp_bitacora_partidas_lote_Backup" caption="cp bitacora partidas lote Backup" userlevel="" priv="1"/>
+<table id="cp_cargos_cargos" name="cp_cargos_cargos" caption="cp cargos cargos" userlevel="" priv="1"/>
+<table id="cp_cargos_fechas" name="cp_cargos_fechas" caption="cp cargos fechas" userlevel="" priv="1"/>
+<table id="cp_cargos_pry" name="cp_cargos_pry" caption="cp cargos pry" userlevel="" priv="1"/>
+<table id="cp_cargostemporal" name="cp_cargostemporal" caption="cp cargostemporal" userlevel="" priv="1"/>
+<table id="cp_clases_provision" name="cp_clases_provision" caption="cp clases provision" userlevel="" priv="1"/>
+<table id="cp_ctasapagar_anul" name="cp_ctasapagar_anul" caption="cp ctasapagar anul" userlevel="" priv="1"/>
+<table id="cp_ctasapagar_anulctas" name="cp_ctasapagar_anulctas" caption="cp ctasapagar anulctas" userlevel="" priv="1"/>
+<table id="cp_cuentas_a_pagar" name="cp_cuentas_a_pagar" caption="cp cuentas a pagar" userlevel="" priv="1"/>
+<table id="cp_cuentasapagar_ctas" name="cp_cuentasapagar_ctas" caption="cp cuentasapagar ctas" userlevel="" priv="1"/>
+<table id="cp_cuentasapagar_pr" name="cp_cuentasapagar_pr" caption="cp cuentasapagar pr" userlevel="" priv="1"/>
+<table id="cp_dias_credito" name="cp_dias_credito" caption="cp dias credito" userlevel="" priv="1"/>
+<table id="cp_foshan" name="cp_foshan" caption="cp foshan" userlevel="" priv="1"/>
+<table id="cp_foshan_abonos" name="cp_foshan_abonos" caption="cp foshan abonos" userlevel="" priv="1"/>
+<table id="cp_foshanw" name="cp_foshanw" caption="cp foshanw" userlevel="" priv="1"/>
+<table id="cp_generales" name="cp_generales" caption="cp generales" userlevel="" priv="1"/>
+<table id="cp_grupos_proveedores" name="cp_grupos_proveedores" caption="cp grupos proveedores" userlevel="" priv="1"/>
+<table id="cp_PagoElectronico" name="cp_PagoElectronico" caption="cp Pago Electronico" userlevel="" priv="1"/>
+<table id="cp_partidas_generadas" name="cp_partidas_generadas" caption="cp partidas generadas" userlevel="" priv="1"/>
+<table id="cp_periodos" name="cp_periodos" caption="cp periodos" userlevel="" priv="1"/>
+<table id="cp_proveedores" name="cp_proveedores" caption="cp proveedores" userlevel="" priv="1"/>
+<table id="cp_proveedores_envio" name="cp_proveedores_envio" caption="cp proveedores envio" userlevel="" priv="1"/>
+<table id="cp_retenciones" name="cp_retenciones" caption="cp retenciones" userlevel="" priv="1"/>
+<table id="cp_retenciones_aplicadas" name="cp_retenciones_aplicadas" caption="cp retenciones aplicadas" userlevel="" priv="1"/>
+<table id="cp_retencionesdet" name="cp_retencionesdet" caption="cp retencionesdet" userlevel="" priv="1"/>
+<table id="cp_saldos_mensuales" name="cp_saldos_mensuales" caption="cp saldos mensuales" userlevel="" priv="1"/>
+<table id="cp_saldos_menxclase" name="cp_saldos_menxclase" caption="cp saldos menxclase" userlevel="" priv="1"/>
+<table id="cp_saldos_proveedores" name="cp_saldos_proveedores" caption="cp saldos proveedores" userlevel="" priv="1"/>
+<table id="cp_saldos_vencidos_cubo" name="cp_saldos_vencidos_cubo" caption="cp saldos vencidos cubo" userlevel="" priv="1"/>
+<table id="cp_tipo_producto" name="cp_tipo_producto" caption="cp tipo producto" userlevel="" priv="1"/>
+<table id="cp_tipos_movimientos" name="cp_tipos_movimientos" caption="cp tipos movimientos" userlevel="" priv="1"/>
+<table id="cp_TmpProveedores" name="cp_TmpProveedores" caption="cp Tmp Proveedores" userlevel="" priv="1"/>
+<table id="cptmpbitbancos" name="cptmpbitbancos" caption="cptmpbitbancos" userlevel="" priv="1"/>
+<table id="crm_actividadCampos" name="crm_actividadCampos" caption="crm actividad Campos" userlevel="" priv="1"/>
+<table id="crm_actividades" name="crm_actividades" caption="crm actividades" userlevel="" priv="1"/>
+<table id="crm_avisos" name="crm_avisos" caption="crm avisos" userlevel="" priv="1"/>
+<table id="crm_campos_definidos" name="crm_campos_definidos" caption="crm campos definidos" userlevel="" priv="1"/>
+<table id="crm_campos_lista" name="crm_campos_lista" caption="crm campos lista" userlevel="" priv="1"/>
+<table id="crm_clasificacion" name="crm_clasificacion" caption="crm clasificacion" userlevel="" priv="1"/>
+<table id="crm_contactoActividad" name="crm_contactoActividad" caption="crm contacto Actividad" userlevel="" priv="1"/>
+<table id="crm_contactoInteres" name="crm_contactoInteres" caption="crm contacto Interes" userlevel="" priv="1"/>
+<table id="crm_contactoPoActividad" name="crm_contactoPoActividad" caption="crm contacto Po Actividad" userlevel="" priv="1"/>
+<table id="crm_contactopoInteres" name="crm_contactopoInteres" caption="crm contactopo Interes" userlevel="" priv="1"/>
+<table id="crm_contactos" name="crm_contactos" caption="crm contactos" userlevel="" priv="1"/>
+<table id="crm_documentos" name="crm_documentos" caption="crm documentos" userlevel="" priv="1"/>
+<table id="crm_empleadoplanta" name="crm_empleadoplanta" caption="crm empleadoplanta" userlevel="" priv="1"/>
+<table id="crm_gestiones" name="crm_gestiones" caption="crm gestiones" userlevel="" priv="1"/>
+<table id="crm_gestionescampos" name="crm_gestionescampos" caption="crm gestionescampos" userlevel="" priv="1"/>
+<table id="crm_gestionesNotas" name="crm_gestionesNotas" caption="crm gestiones Notas" userlevel="" priv="1"/>
+<table id="crm_intereses" name="crm_intereses" caption="crm intereses" userlevel="" priv="1"/>
+<table id="crm_notificaempleado" name="crm_notificaempleado" caption="crm notificaempleado" userlevel="" priv="1"/>
+<table id="crm_plantallamadas" name="crm_plantallamadas" caption="crm plantallamadas" userlevel="" priv="1"/>
+<table id="crm_plantas" name="crm_plantas" caption="crm plantas" userlevel="" priv="1"/>
+<table id="crm_prioridad" name="crm_prioridad" caption="crm prioridad" userlevel="" priv="1"/>
+<table id="crm_proceso" name="crm_proceso" caption="crm proceso" userlevel="" priv="1"/>
+<table id="crm_procesodepto" name="crm_procesodepto" caption="crm procesodepto" userlevel="" priv="1"/>
+<table id="crm_seguimiento" name="crm_seguimiento" caption="crm seguimiento" userlevel="" priv="1"/>
+<table id="ctas" name="ctas" caption="ctas" userlevel="" priv="1"/>
+<table id="cualquiera" name="cualquiera" caption="cualquiera" userlevel="" priv="1"/>
+<table id="cubo_saldos" name="cubo_saldos" caption="cubo saldos" userlevel="" priv="1"/>
+<table id="cuentas" name="cuentas" caption="cuentas" userlevel="" priv="1"/>
+<table id="cv_comisiones_det" name="cv_comisiones_det" caption="cv comisiones det" userlevel="" priv="1"/>
+<table id="cv_comisiones_enc" name="cv_comisiones_enc" caption="cv comisiones enc" userlevel="" priv="1"/>
+<table id="cv_comisiones_imsa" name="cv_comisiones_imsa" caption="cv comisiones imsa" userlevel="" priv="1"/>
+<table id="cv_comisiones_imsa_cob" name="cv_comisiones_imsa_cob" caption="cv comisiones imsa cob" userlevel="" priv="1"/>
+<table id="cv_comisiones_imsa_cred" name="cv_comisiones_imsa_cred" caption="cv comisiones imsa cred" userlevel="" priv="1"/>
+<table id="cv_vendedor_familias" name="cv_vendedor_familias" caption="cv vendedor familias" userlevel="" priv="1"/>
+<table id="cv_vendedor_marcas" name="cv_vendedor_marcas" caption="cv vendedor marcas" userlevel="" priv="1"/>
+<table id="cv_vendedor_tipos" name="cv_vendedor_tipos" caption="cv vendedor tipos" userlevel="" priv="1"/>
+<table id="dbaAnalisis" name="dbaAnalisis" caption="dba Analisis" userlevel="" priv="1"/>
+<table id="DbaCuadre" name="DbaCuadre" caption="Dba Cuadre" userlevel="" priv="1"/>
+<table id="de_correlativos" name="de_correlativos" caption="de correlativos" userlevel="" priv="1"/>
+<table id="de_despachos_enc" name="de_despachos_enc" caption="de despachos enc" userlevel="" priv="1"/>
+<table id="de_despachos_prod" name="de_despachos_prod" caption="de despachos prod" userlevel="" priv="1"/>
+<table id="de_generales" name="de_generales" caption="de generales" userlevel="" priv="1"/>
+<table id="de_motivos_reposicion" name="de_motivos_reposicion" caption="de motivos reposicion" userlevel="" priv="1"/>
+<table id="de_prioridades" name="de_prioridades" caption="de prioridades" userlevel="" priv="1"/>
+<table id="de_reposicion_det" name="de_reposicion_det" caption="de reposicion det" userlevel="" priv="1"/>
+<table id="de_reposicion_enc" name="de_reposicion_enc" caption="de reposicion enc" userlevel="" priv="1"/>
+<table id="de_rutas" name="de_rutas" caption="de rutas" userlevel="" priv="1"/>
+<table id="de_seguimientos" name="de_seguimientos" caption="de seguimientos" userlevel="" priv="1"/>
+<table id="de_vehiculos" name="de_vehiculos" caption="de vehiculos" userlevel="" priv="1"/>
+<table id="Depositos" name="Depositos" caption="Depositos" userlevel="" priv="1"/>
+<table id="Deptos24" name="Deptos$" caption="Deptos$" userlevel="" priv="1"/>
+<table id="difeee" name="difeee" caption="difeee" userlevel="" priv="1"/>
+<table id="diferencias" name="diferencias" caption="diferencias" userlevel="" priv="1"/>
+<table id="docacreedores" name="docacreedores" caption="docacreedores" userlevel="" priv="1"/>
+<table id="emp" name="emp" caption="emp" userlevel="" priv="1"/>
+<table id="EmployeeAutoEvent" name="EmployeeAutoEvent" caption="Employee Auto Event" userlevel="" priv="1"/>
+<table id="EmployeeLocations" name="EmployeeLocations" caption="Employee Locations" userlevel="" priv="1"/>
+<table id="EmployeeNicknames" name="EmployeeNicknames" caption="Employee Nicknames" userlevel="" priv="1"/>
+<table id="EmployeeShifts" name="EmployeeShifts" caption="Employee Shifts" userlevel="" priv="1"/>
+<table id="et_productos" name="et_productos" caption="et productos" userlevel="" priv="1"/>
+<table id="etiquetaIM01" name="etiquetaIM01" caption="etiqueta IM01" userlevel="" priv="1"/>
+<table id="Existencias_Bodega_2004" name="Existencias_Bodega_2004" caption="Existencias Bodega 2004" userlevel="" priv="1"/>
+<table id="Existencias_Bodegas" name="Existencias_Bodegas" caption="Existencias Bodegas" userlevel="" priv="1"/>
+<table id="Existencias2005" name="Existencias2005" caption="Existencias 2005" userlevel="" priv="1"/>
+<table id="facContado" name="facContado" caption="fac Contado" userlevel="" priv="1"/>
+<table id="faccredito" name="faccredito" caption="faccredito" userlevel="" priv="1"/>
+<table id="facturas" name="facturas" caption="facturas" userlevel="" priv="1"/>
+<table id="FacturasSinMovimiento" name="FacturasSinMovimiento" caption="Facturas Sin Movimiento" userlevel="" priv="1"/>
+<table id="FacturasSMovimiento" name="FacturasSMovimiento" caption="Facturas SMovimiento" userlevel="" priv="1"/>
+<table id="Fechas" name="Fechas" caption="Fechas" userlevel="" priv="1"/>
+<table id="FilePersonal24" name="FilePersonal$" caption="File Personal$" userlevel="" priv="1"/>
+<table id="FilePersonal224" name="FilePersonal2$" caption="File Personal 2$" userlevel="" priv="1"/>
+<table id="GeneraDiferencia" name="GeneraDiferencia" caption="Genera Diferencia" userlevel="" priv="1"/>
+<table id="gn_correlativos_tablas" name="gn_correlativos_tablas" caption="gn correlativos tablas" userlevel="" priv="1"/>
+<table id="gn_departamentos" name="gn_departamentos" caption="gn departamentos" userlevel="" priv="1"/>
+<table id="gn_deptos" name="gn_deptos" caption="gn deptos" userlevel="" priv="1"/>
+<table id="gn_deptos_pais" name="gn_deptos_pais" caption="gn deptos pais" userlevel="" priv="1"/>
+<table id="gn_emisores" name="gn_emisores" caption="gn emisores" userlevel="" priv="1"/>
+<table id="gn_etiquetas" name="gn_etiquetas" caption="gn etiquetas" userlevel="" priv="1"/>
+<table id="gn_etiquetas_campos" name="gn_etiquetas_campos" caption="gn etiquetas campos" userlevel="" priv="1"/>
+<table id="gn_etiquetas_parametros" name="gn_etiquetas_parametros" caption="gn etiquetas parametros" userlevel="" priv="1"/>
+<table id="gn_formatos" name="gn_formatos" caption="gn formatos" userlevel="" priv="1"/>
+<table id="gn_generales" name="gn_generales" caption="gn generales" userlevel="" priv="1"/>
+<table id="gn_impuestos" name="gn_impuestos" caption="gn impuestos" userlevel="" priv="1"/>
+<table id="gn_integraciones" name="gn_integraciones" caption="gn integraciones" userlevel="" priv="1"/>
+<table id="gn_modulos" name="gn_modulos" caption="gn modulos" userlevel="" priv="1"/>
+<table id="gn_monedas" name="gn_monedas" caption="gn monedas" userlevel="" priv="1"/>
+<table id="gn_motivos_anulacion" name="gn_motivos_anulacion" caption="gn motivos anulacion" userlevel="" priv="1"/>
+<table id="gn_municipio" name="gn_municipio" caption="gn municipio" userlevel="" priv="1"/>
+<table id="gn_municipios_pais" name="gn_municipios_pais" caption="gn municipios pais" userlevel="" priv="1"/>
+<table id="gn_paises" name="gn_paises" caption="gn paises" userlevel="" priv="1"/>
+<table id="gn_periodos" name="gn_periodos" caption="gn periodos" userlevel="" priv="1"/>
+<table id="gn_profesiones" name="gn_profesiones" caption="gn profesiones" userlevel="" priv="1"/>
+<table id="gn_regiones" name="gn_regiones" caption="gn regiones" userlevel="" priv="1"/>
+<table id="gn_secciones" name="gn_secciones" caption="gn secciones" userlevel="" priv="1"/>
+<table id="gn_servidores" name="gn_servidores" caption="gn servidores" userlevel="" priv="1"/>
+<table id="gn_sucursal_vendedor" name="gn_sucursal_vendedor" caption="gn sucursal vendedor" userlevel="" priv="1"/>
+<table id="gn_sucursales" name="gn_sucursales" caption="gn sucursales" userlevel="" priv="1"/>
+<table id="gn_supervisores" name="gn_supervisores" caption="gn supervisores" userlevel="" priv="1"/>
+<table id="gn_supvendedor" name="gn_supvendedor" caption="gn supvendedor" userlevel="" priv="1"/>
+<table id="gn_tasas_cambio" name="gn_tasas_cambio" caption="gn tasas cambio" userlevel="" priv="1"/>
+<table id="gn_traslados" name="gn_traslados" caption="gn traslados" userlevel="" priv="1"/>
+<table id="gn_usuarios" name="gn_usuarios" caption="gn usuarios" userlevel="" priv="1"/>
+<table id="gn_usuarios_sucursal" name="gn_usuarios_sucursal" caption="gn usuarios sucursal" userlevel="" priv="1"/>
+<table id="gn_vendedores" name="gn_vendedores" caption="gn vendedores" userlevel="" priv="1"/>
+<table id="gn_vendedores_sucursales" name="gn_vendedores_sucursales" caption="gn vendedores sucursales" userlevel="" priv="1"/>
+<table id="im_totalcompraplomeros" name="im_totalcompraplomeros" caption="im totalcompraplomeros" userlevel="" priv="1"/>
+<table id="in_ajustes" name="in_ajustes" caption="in ajustes" userlevel="" priv="1"/>
+<table id="in_aranceles" name="in_aranceles" caption="in aranceles" userlevel="" priv="1"/>
+<table id="in_autorizador" name="in_autorizador" caption="in autorizador" userlevel="" priv="1"/>
+<table id="in_autorizadores" name="in_autorizadores" caption="in autorizadores" userlevel="" priv="1"/>
+<table id="in_aux_solicitudes" name="in_aux_solicitudes" caption="in aux solicitudes" userlevel="" priv="1"/>
+<table id="in_bitacora" name="in_bitacora" caption="in bitacora" userlevel="" priv="1"/>
+<table id="in_bitacora_partida" name="in_bitacora_partida" caption="in bitacora partida" userlevel="" priv="1"/>
+<table id="in_bitacora_recosteo" name="in_bitacora_recosteo" caption="in bitacora recosteo" userlevel="" priv="1"/>
+<table id="in_bitacora_recosteo_ajustes" name="in_bitacora_recosteo_ajustes" caption="in bitacora recosteo ajustes" userlevel="" priv="1"/>
+<table id="in_bitacora_recosteo_enc" name="in_bitacora_recosteo_enc" caption="in bitacora recosteo enc" userlevel="" priv="1"/>
+<table id="in_bodegas" name="in_bodegas" caption="Bodegas" userlevel="" priv="1"/>
+<table id="in_bodegas_ubicaciones" name="in_bodegas_ubicaciones" caption="in bodegas ubicaciones" userlevel="" priv="1"/>
+<table id="in_bodegaubicaciones" name="in_bodegaubicaciones" caption="Ubicación" userlevel="" priv="1"/>
+<table id="in_campos_movimiento" name="in_campos_movimiento" caption="in campos movimiento" userlevel="" priv="1"/>
+<table id="in_campos_refer" name="in_campos_refer" caption="in campos refer" userlevel="" priv="1"/>
+<table id="in_campos_usuario" name="in_campos_usuario" caption="in campos usuario" userlevel="" priv="1"/>
+<table id="in_com_solicitud" name="in_com_solicitud" caption="in com solicitud" userlevel="" priv="1"/>
+<table id="in_control_reclamo" name="in_control_reclamo" caption="in control reclamo" userlevel="" priv="1"/>
+<table id="in_correlativos" name="in_correlativos" caption="in correlativos" userlevel="" priv="1"/>
+<table id="in_documentos_asociados" name="in_documentos_asociados" caption="in documentos asociados" userlevel="" priv="1"/>
+<table id="in_empl_responsables" name="in_empl_responsables" caption="in empl responsables" userlevel="" priv="1"/>
+<table id="in_estadistica_mov" name="in_estadistica_mov" caption="in estadistica mov" userlevel="" priv="1"/>
+<table id="in_estanteria" name="in_estanteria" caption="Estantería" userlevel="" priv="1"/>
+<table id="in_existencias" name="in_existencias" caption="in existencias" userlevel="" priv="1"/>
+<table id="in_existencias_bodegas" name="in_existencias_bodegas" caption="in existencias bodegas" userlevel="" priv="1"/>
+<table id="in_existencias_mensuales" name="in_existencias_mensuales" caption="in existencias mensuales" userlevel="" priv="1"/>
+<table id="in_existencias_mensuales_traslados" name="in_existencias_mensuales_traslados" caption="in existencias mensuales traslados" userlevel="" priv="1"/>
+<table id="in_existencias_resumidas" name="in_existencias_resumidas" caption="in existencias resumidas" userlevel="" priv="1"/>
+<table id="in_existencias_traslados" name="in_existencias_traslados" caption="in existencias traslados" userlevel="" priv="1"/>
+<table id="in_existencias_traslados_bodegas" name="in_existencias_traslados_bodegas" caption="in existencias traslados bodegas" userlevel="" priv="1"/>
+<table id="in_existenciasOld" name="in_existenciasOld" caption="in existencias Old" userlevel="" priv="1"/>
+<table id="in_familias" name="in_familias" caption="in familias" userlevel="" priv="1"/>
+<table id="in_generales" name="in_generales" caption="in generales" userlevel="" priv="1"/>
+<table id="in_genericos" name="in_genericos" caption="in genericos" userlevel="" priv="1"/>
+<table id="in_grupo_conteo" name="in_grupo_conteo" caption="in grupo conteo" userlevel="" priv="1"/>
+<table id="in_grupos_contables" name="in_grupos_contables" caption="in grupos contables" userlevel="" priv="1"/>
+<table id="in_ingresos_costos_det" name="in_ingresos_costos_det" caption="in ingresos costos det" userlevel="" priv="1"/>
+<table id="in_ingresos_costos_enc" name="in_ingresos_costos_enc" caption="in ingresos costos enc" userlevel="" priv="1"/>
+<table id="in_ingresos_costos_kit" name="in_ingresos_costos_kit" caption="in ingresos costos kit" userlevel="" priv="1"/>
+<table id="in_lineas" name="in_lineas" caption="in lineas" userlevel="" priv="1"/>
+<table id="in_lista_campos" name="in_lista_campos" caption="in lista campos" userlevel="" priv="1"/>
+<table id="in_marcas" name="in_marcas" caption="in marcas" userlevel="" priv="1"/>
+<table id="in_maxmin" name="in_maxmin" caption="in maxmin" userlevel="" priv="1"/>
+<table id="in_movimiento_pepsueps" name="in_movimiento_pepsueps" caption="in movimiento pepsueps" userlevel="" priv="1"/>
+<table id="in_movimientos_camp" name="in_movimientos_camp" caption="in movimientos camp" userlevel="" priv="1"/>
+<table id="in_movimientos_det" name="in_movimientos_det" caption="in movimientos det" userlevel="" priv="1"/>
+<table id="in_movimientos_det_transito" name="in_movimientos_det_transito" caption="in movimientos det transito" userlevel="" priv="1"/>
+<table id="in_movimientos_det_traslados" name="in_movimientos_det_traslados" caption="in movimientos det traslados" userlevel="" priv="1"/>
+<table id="in_movimientos_enc" name="in_movimientos_enc" caption="in movimientos enc" userlevel="" priv="1"/>
+<table id="in_movimientos_enc_transito" name="in_movimientos_enc_transito" caption="in movimientos enc transito" userlevel="" priv="1"/>
+<table id="in_movimientos_enc_traslados" name="in_movimientos_enc_traslados" caption="in movimientos enc traslados" userlevel="" priv="1"/>
+<table id="in_movimientos_kit" name="in_movimientos_kit" caption="in movimientos kit" userlevel="" priv="1"/>
+<table id="in_nivel_aut" name="in_nivel_aut" caption="in nivel aut" userlevel="" priv="1"/>
+<table id="in_operadores" name="in_operadores" caption="in operadores" userlevel="" priv="1"/>
+<table id="in_periodos" name="in_periodos" caption="in periodos" userlevel="" priv="1"/>
+<table id="in_producto_asociado" name="in_producto_asociado" caption="in producto asociado" userlevel="" priv="1"/>
+<table id="in_productoimagen" name="in_productoimagen" caption="in productoimagen" userlevel="" priv="1"/>
+<table id="in_productoproblema" name="in_productoproblema" caption="in productoproblema" userlevel="" priv="1"/>
+<table id="in_productos" name="in_productos" caption="in productos" userlevel="" priv="1"/>
+<table id="in_productos_alternos" name="in_productos_alternos" caption="in productos alternos" userlevel="" priv="1"/>
+<table id="in_productos_bodega" name="in_productos_bodega" caption="in productos bodega" userlevel="" priv="1"/>
+<table id="in_productos_campos" name="in_productos_campos" caption="in productos campos" userlevel="" priv="1"/>
+<table id="in_productos_kit" name="in_productos_kit" caption="in productos kit" userlevel="" priv="1"/>
+<table id="in_productos_kit_traslados" name="in_productos_kit_traslados" caption="in productos kit traslados" userlevel="" priv="1"/>
+<table id="in_productos_margenes" name="in_productos_margenes" caption="in productos margenes" userlevel="" priv="1"/>
+<table id="in_productos_traslados" name="in_productos_traslados" caption="in productos traslados" userlevel="" priv="1"/>
+<table id="in_reclamos_aut" name="in_reclamos_aut" caption="in reclamos aut" userlevel="" priv="1"/>
+<table id="in_reclamos_det" name="in_reclamos_det" caption="in reclamos det" userlevel="" priv="1"/>
+<table id="in_reclamos_enc" name="in_reclamos_enc" caption="in reclamos enc" userlevel="" priv="1"/>
+<table id="in_reclamos_mov" name="in_reclamos_mov" caption="in reclamos mov" userlevel="" priv="1"/>
+<table id="in_reclamos_seg" name="in_reclamos_seg" caption="in reclamos seg" userlevel="" priv="1"/>
+<table id="in_referencias" name="in_referencias" caption="in referencias" userlevel="" priv="1"/>
+<table id="in_referencias_det" name="in_referencias_det" caption="in referencias det" userlevel="" priv="1"/>
+<table id="in_responsables_marca" name="in_responsables_marca" caption="in responsables marca" userlevel="" priv="1"/>
+<table id="in_seccionestanteria" name="in_seccionestanteria" caption="Ubicación" userlevel="" priv="1"/>
+<table id="in_seguimientos_reclamos" name="in_seguimientos_reclamos" caption="in seguimientos reclamos" userlevel="" priv="1"/>
+<table id="in_solicituddan_aut" name="in_solicituddan_aut" caption="in solicituddan aut" userlevel="" priv="1"/>
+<table id="in_solicituddan_det" name="in_solicituddan_det" caption="in solicituddan det" userlevel="" priv="1"/>
+<table id="in_solicituddan_enc" name="in_solicituddan_enc" caption="in solicituddan enc" userlevel="" priv="1"/>
+<table id="in_solicitudmov_aut" name="in_solicitudmov_aut" caption="in solicitudmov aut" userlevel="" priv="1"/>
+<table id="in_solicitudmov_det" name="in_solicitudmov_det" caption="in solicitudmov det" userlevel="" priv="1"/>
+<table id="in_solicitudmov_enc" name="in_solicitudmov_enc" caption="in solicitudmov enc" userlevel="" priv="1"/>
+<table id="in_tempinv01" name="in_tempinv01" caption="in tempinv 01" userlevel="" priv="1"/>
+<table id="in_tempinv02" name="in_tempinv02" caption="in tempinv 02" userlevel="" priv="1"/>
+<table id="in_tempinv03" name="in_tempinv03" caption="in tempinv 03" userlevel="" priv="1"/>
+<table id="in_tempinv04" name="in_tempinv04" caption="in tempinv 04" userlevel="" priv="1"/>
+<table id="in_tempinv05" name="in_tempinv05" caption="in tempinv 05" userlevel="" priv="1"/>
+<table id="in_tempinv06" name="in_tempinv06" caption="in tempinv 06" userlevel="" priv="1"/>
+<table id="in_tempInvVal" name="in_tempInvVal" caption="in temp Inv Val" userlevel="" priv="1"/>
+<table id="in_tipo_producto" name="in_tipo_producto" caption="in tipo producto" userlevel="" priv="1"/>
+<table id="in_tipo_valuacion" name="in_tipo_valuacion" caption="in tipo valuacion" userlevel="" priv="1"/>
+<table id="in_tipos_movimiento" name="in_tipos_movimiento" caption="in tipos movimiento" userlevel="" priv="1"/>
+<table id="in_tiposmov_usuarios" name="in_tiposmov_usuarios" caption="in tiposmov usuarios" userlevel="" priv="1"/>
+<table id="in_tomafisica_det" name="in_tomafisica_det" caption="in tomafisica det" userlevel="" priv="1"/>
+<table id="in_tomafisica_det_traslados" name="in_tomafisica_det_traslados" caption="in tomafisica det traslados" userlevel="" priv="1"/>
+<table id="in_tomafisica_enc" name="in_tomafisica_enc" caption="in tomafisica enc" userlevel="" priv="1"/>
+<table id="in_tomafisica_enc_traslados" name="in_tomafisica_enc_traslados" caption="in tomafisica enc traslados" userlevel="" priv="1"/>
+<table id="in_traslado_aut" name="in_traslado_aut" caption="in traslado aut" userlevel="" priv="1"/>
+<table id="in_traslado_impresion" name="in_traslado_impresion" caption="in traslado impresion" userlevel="" priv="1"/>
+<table id="in_traslados_det" name="in_traslados_det" caption="in traslados det" userlevel="" priv="1"/>
+<table id="in_traslados_det_old" name="in_traslados_det_old" caption="in traslados det old" userlevel="" priv="1"/>
+<table id="in_traslados_enc" name="in_traslados_enc" caption="in traslados enc" userlevel="" priv="1"/>
+<table id="in_traslados_enc_old" name="in_traslados_enc_old" caption="in traslados enc old" userlevel="" priv="1"/>
+<table id="in_ubicaciones_detalladas" name="in_ubicaciones_detalladas" caption="in ubicaciones detalladas" userlevel="" priv="1"/>
+<table id="in_ubicaciones_usuarios" name="in_ubicaciones_usuarios" caption="in ubicaciones usuarios" userlevel="" priv="1"/>
+<table id="in_unidades" name="in_unidades" caption="in unidades" userlevel="" priv="1"/>
+<table id="in_unidades_medida" name="in_unidades_medida" caption="in unidades medida" userlevel="" priv="1"/>
+<table id="in_usuarios_sucursal" name="in_usuarios_sucursal" caption="in usuarios sucursal" userlevel="" priv="1"/>
+<table id="in_usuarios_tipos" name="in_usuarios_tipos" caption="in usuarios tipos" userlevel="" priv="1"/>
+<table id="inb_ingresos_costos_det" name="inb_ingresos_costos_det" caption="inb ingresos costos det" userlevel="" priv="1"/>
+<table id="inb_movimientos_det" name="inb_movimientos_det" caption="inb movimientos det" userlevel="" priv="1"/>
+<table id="InvConstruye" name="InvConstruye" caption="Inv Construye" userlevel="" priv="1"/>
+<table id="IVAAGOSTO" name="IVAAGOSTO" caption="IVAAGOSTO" userlevel="" priv="1"/>
+<table id="LastEmployeeTransaction" name="LastEmployeeTransaction" caption="Last Employee Transaction" userlevel="" priv="1"/>
+<table id="lb_cierre_diario" name="lb_cierre_diario" caption="lb cierre diario" userlevel="" priv="1"/>
+<table id="lb_generales" name="lb_generales" caption="lb generales" userlevel="" priv="1"/>
+<table id="lb_impuesto_compras" name="lb_impuesto_compras" caption="lb impuesto compras" userlevel="" priv="1"/>
+<table id="lb_impuesto_compras_det" name="lb_impuesto_compras_det" caption="lb impuesto compras det" userlevel="" priv="1"/>
+<table id="lb_impuesto_ventas" name="lb_impuesto_ventas" caption="lb impuesto ventas" userlevel="" priv="1"/>
+<table id="lb_impuesto_ventas_det" name="lb_impuesto_ventas_det" caption="lb impuesto ventas det" userlevel="" priv="1"/>
+<table id="lb_impuesto_ventas_det_tmp" name="lb_impuesto_ventas_det_tmp" caption="lb impuesto ventas det tmp" userlevel="" priv="1"/>
+<table id="lb_series" name="lb_series" caption="lb series" userlevel="" priv="1"/>
+<table id="lb_sucursales" name="lb_sucursales" caption="lb sucursales" userlevel="" priv="1"/>
+<table id="mas200_AP_Recibos" name="mas200_AP_Recibos" caption="mas 200 AP Recibos" userlevel="" priv="1"/>
+<table id="mas200_bodegas" name="mas200_bodegas" caption="mas 200 bodegas" userlevel="" priv="1"/>
+<table id="mas200_facturas" name="mas200_facturas" caption="mas 200 facturas" userlevel="" priv="1"/>
+<table id="mas200_proveedores" name="mas200_proveedores" caption="mas 200 proveedores" userlevel="" priv="1"/>
+<table id="mas200depositos" name="mas200depositos" caption="mas 200depositos" userlevel="" priv="1"/>
+<table id="mev" name="mev" caption="mev" userlevel="" priv="1"/>
+<table id="MOBILIARIO" name="MOBILIARIO" caption="MOBILIARIO" userlevel="" priv="1"/>
+<table id="montana" name="montana" caption="montana" userlevel="" priv="1"/>
+<table id="montareas" name="montareas" caption="montareas" userlevel="" priv="1"/>
+<table id="mov" name="mov" caption="mov" userlevel="" priv="1"/>
+<table id="movs" name="movs" caption="movs" userlevel="" priv="1"/>
+<table id="no_avisar_a" name="no_avisar_a" caption="no avisar a" userlevel="" priv="1"/>
+<table id="no_calculo_ingresos" name="no_calculo_ingresos" caption="no calculo ingresos" userlevel="" priv="1"/>
+<table id="no_calculo_sueldos" name="no_calculo_sueldos" caption="no calculo sueldos" userlevel="" priv="1"/>
+<table id="no_campos_usuario" name="no_campos_usuario" caption="no campos usuario" userlevel="" priv="1"/>
+<table id="no_campos_valores" name="no_campos_valores" caption="no campos valores" userlevel="" priv="1"/>
+<table id="no_carga_reporte" name="no_carga_reporte" caption="no carga reporte" userlevel="" priv="1"/>
+<table id="no_catalogo_anticipos" name="no_catalogo_anticipos" caption="no catalogo anticipos" userlevel="" priv="1"/>
+<table id="no_catalogo_deducciones" name="no_catalogo_deducciones" caption="no catalogo deducciones" userlevel="" priv="1"/>
+<table id="no_catalogo_deducciones_depto" name="no_catalogo_deducciones_depto" caption="no catalogo deducciones depto" userlevel="" priv="1"/>
+<table id="no_catalogo_ingresos" name="no_catalogo_ingresos" caption="no catalogo ingresos" userlevel="" priv="1"/>
+<table id="no_catalogo_ingresos_depto" name="no_catalogo_ingresos_depto" caption="no catalogo ingresos depto" userlevel="" priv="1"/>
+<table id="no_catalogo_parentescos" name="no_catalogo_parentescos" caption="no catalogo parentescos" userlevel="" priv="1"/>
+<table id="no_catalogo_provisiones" name="no_catalogo_provisiones" caption="no catalogo provisiones" userlevel="" priv="1"/>
+<table id="no_catalogo_provisiones_depto" name="no_catalogo_provisiones_depto" caption="no catalogo provisiones depto" userlevel="" priv="1"/>
+<table id="no_categoria_comentario" name="no_categoria_comentario" caption="no categoria comentario" userlevel="" priv="1"/>
+<table id="no_cheques_eliminados" name="no_cheques_eliminados" caption="no cheques eliminados" userlevel="" priv="1"/>
+<table id="no_cheques_orden" name="no_cheques_orden" caption="no cheques orden" userlevel="" priv="1"/>
+<table id="no_clases_niveles" name="no_clases_niveles" caption="no clases niveles" userlevel="" priv="1"/>
+<table id="no_clases_variables" name="no_clases_variables" caption="no clases variables" userlevel="" priv="1"/>
+<table id="no_codigos_rap_hn" name="no_codigos_rap_hn" caption="no codigos rap hn" userlevel="" priv="1"/>
+<table id="no_configuracion_punto" name="no_configuracion_punto" caption="no configuracion punto" userlevel="" priv="1"/>
+<table id="no_configuraciones" name="no_configuraciones" caption="no configuraciones" userlevel="" priv="1"/>
+<table id="no_cuenta_corriente" name="no_cuenta_corriente" caption="no cuenta corriente" userlevel="" priv="1"/>
+<table id="no_cuenta_corriente_ded" name="no_cuenta_corriente_ded" caption="no cuenta corriente ded" userlevel="" priv="1"/>
+<table id="no_cuenta_corriente_ing" name="no_cuenta_corriente_ing" caption="no cuenta corriente ing" userlevel="" priv="1"/>
+<table id="no_datos_transferidos" name="no_datos_transferidos" caption="no datos transferidos" userlevel="" priv="1"/>
+<table id="no_deducciones_ajustes" name="no_deducciones_ajustes" caption="no deducciones ajustes" userlevel="" priv="1"/>
+<table id="no_deducciones_correccion" name="no_deducciones_correccion" caption="no deducciones correccion" userlevel="" priv="1"/>
+<table id="no_deducciones_cuotas" name="no_deducciones_cuotas" caption="no deducciones cuotas" userlevel="" priv="1"/>
+<table id="no_deducciones_departamento" name="no_deducciones_departamento" caption="no deducciones departamento" userlevel="" priv="1"/>
+<table id="no_deducciones_det" name="no_deducciones_det" caption="no deducciones det" userlevel="" priv="1"/>
+<table id="no_deducciones_enc" name="no_deducciones_enc" caption="no deducciones enc" userlevel="" priv="1"/>
+<table id="no_deducciones_periodos" name="no_deducciones_periodos" caption="no deducciones periodos" userlevel="" priv="1"/>
+<table id="no_denominaciones" name="no_denominaciones" caption="no denominaciones" userlevel="" priv="1"/>
+<table id="no_detalle_variablesv" name="no_detalle_variablesv" caption="no detalle variablesv" userlevel="" priv="1"/>
+<table id="no_empleado_anticipos" name="no_empleado_anticipos" caption="no empleado anticipos" userlevel="" priv="1"/>
+<table id="no_empleado_campos" name="no_empleado_campos" caption="no empleado campos" userlevel="" priv="1"/>
+<table id="no_empleado_campos_tabular" name="no_empleado_campos_tabular" caption="no empleado campos tabular" userlevel="" priv="1"/>
+<table id="no_empleado_comentarios" name="no_empleado_comentarios" caption="no empleado comentarios" userlevel="" priv="1"/>
+<table id="no_empleado_deducciones" name="no_empleado_deducciones" caption="no empleado deducciones" userlevel="" priv="1"/>
+<table id="no_empleado_documento" name="no_empleado_documento" caption="no empleado documento" userlevel="" priv="1"/>
+<table id="no_empleado_entrenamiento" name="no_empleado_entrenamiento" caption="no empleado entrenamiento" userlevel="" priv="1"/>
+<table id="no_empleado_ingresos" name="no_empleado_ingresos" caption="no empleado ingresos" userlevel="" priv="1"/>
+<table id="no_empleado_ingresos_det" name="no_empleado_ingresos_det" caption="no empleado ingresos det" userlevel="" priv="1"/>
+<table id="no_empleado_ingresos_historico" name="no_empleado_ingresos_historico" caption="no empleado ingresos historico" userlevel="" priv="1"/>
+<table id="no_empleado_nivel_acadamico" name="no_empleado_nivel_acadamico" caption="no empleado nivel acadamico" userlevel="" priv="1"/>
+<table id="no_empleado_provision_enc" name="no_empleado_provision_enc" caption="no empleado provision enc" userlevel="" priv="1"/>
+<table id="no_empleado_provisiones" name="no_empleado_provisiones" caption="no empleado provisiones" userlevel="" priv="1"/>
+<table id="no_empleado_supervisores" name="no_empleado_supervisores" caption="no empleado supervisores" userlevel="" priv="1"/>
+<table id="no_empleado_vacaciones" name="no_empleado_vacaciones" caption="no empleado vacaciones" userlevel="" priv="1"/>
+<table id="no_empleado_vacdet" name="no_empleado_vacdet" caption="no empleado vacdet" userlevel="" priv="1"/>
+<table id="no_empleado_valores" name="no_empleado_valores" caption="no empleado valores" userlevel="" priv="1"/>
+<table id="no_empleados" name="no_empleados" caption="no empleados" userlevel="" priv="1"/>
+<table id="no_empleados_nombres" name="no_empleados_nombres" caption="no empleados nombres" userlevel="" priv="1"/>
+<table id="no_empleados_tmp3" name="no_empleados_tmp3" caption="no empleados tmp 3" userlevel="" priv="1"/>
+<table id="no_empleados_traslados" name="no_empleados_traslados" caption="no empleados traslados" userlevel="" priv="1"/>
+<table id="no_emplvac_detalle" name="no_emplvac_detalle" caption="no emplvac detalle" userlevel="" priv="1"/>
+<table id="no_formatos_finiquitos" name="no_formatos_finiquitos" caption="no formatos finiquitos" userlevel="" priv="1"/>
+<table id="no_formatos_finiquitos_det" name="no_formatos_finiquitos_det" caption="no formatos finiquitos det" userlevel="" priv="1"/>
+<table id="no_formulas" name="no_formulas" caption="no formulas" userlevel="" priv="1"/>
+<table id="no_formulas_det" name="no_formulas_det" caption="no formulas det" userlevel="" priv="1"/>
+<table id="no_generales" name="no_generales" caption="no generales" userlevel="" priv="1"/>
+<table id="no_grupos_detalle" name="no_grupos_detalle" caption="no grupos detalle" userlevel="" priv="1"/>
+<table id="no_grupos_trabajo" name="no_grupos_trabajo" caption="no grupos trabajo" userlevel="" priv="1"/>
+<table id="no_grupos_valores" name="no_grupos_valores" caption="no grupos valores" userlevel="" priv="1"/>
+<table id="no_ingreso_afecto_isr_gt" name="no_ingreso_afecto_isr_gt" caption="no ingreso afecto isr gt" userlevel="" priv="1"/>
+<table id="no_ingresos_departamento" name="no_ingresos_departamento" caption="no ingresos departamento" userlevel="" priv="1"/>
+<table id="no_jornadas" name="no_jornadas" caption="no jornadas" userlevel="" priv="1"/>
+<table id="no_libro_salarios_gt" name="no_libro_salarios_gt" caption="no libro salarios gt" userlevel="" priv="1"/>
+<table id="no_lineasliquidacion" name="no_lineasliquidacion" caption="no lineasliquidacion" userlevel="" priv="1"/>
+<table id="no_liquidaciones" name="no_liquidaciones" caption="no liquidaciones" userlevel="" priv="1"/>
+<table id="no_liquidaciones_temporal" name="no_liquidaciones_temporal" caption="no liquidaciones temporal" userlevel="" priv="1"/>
+<table id="no_motivos_baja" name="no_motivos_baja" caption="no motivos baja" userlevel="" priv="1"/>
+<table id="no_motivos_reporte" name="no_motivos_reporte" caption="no motivos reporte" userlevel="" priv="1"/>
+<table id="no_niveles_academicos" name="no_niveles_academicos" caption="no niveles academicos" userlevel="" priv="1"/>
+<table id="no_nomina_afecto_isr_gt" name="no_nomina_afecto_isr_gt" caption="no nomina afecto isr gt" userlevel="" priv="1"/>
+<table id="no_nomina_anticipos" name="no_nomina_anticipos" caption="no nomina anticipos" userlevel="" priv="1"/>
+<table id="no_nomina_asistencia" name="no_nomina_asistencia" caption="no nomina asistencia" userlevel="" priv="1"/>
+<table id="no_nomina_asuetos" name="no_nomina_asuetos" caption="no nomina asuetos" userlevel="" priv="1"/>
+<table id="no_nomina_autorizadores" name="no_nomina_autorizadores" caption="no nomina autorizadores" userlevel="" priv="1"/>
+<table id="no_nomina_deducciones" name="no_nomina_deducciones" caption="no nomina deducciones" userlevel="" priv="1"/>
+<table id="no_nomina_det" name="no_nomina_det" caption="no nomina det" userlevel="" priv="1"/>
+<table id="no_nomina_emplcalc" name="no_nomina_emplcalc" caption="no nomina emplcalc" userlevel="" priv="1"/>
+<table id="no_nomina_emplcalc_det" name="no_nomina_emplcalc_det" caption="no nomina emplcalc det" userlevel="" priv="1"/>
+<table id="no_nomina_empleado" name="no_nomina_empleado" caption="no nomina empleado" userlevel="" priv="1"/>
+<table id="no_nomina_enc" name="no_nomina_enc" caption="no nomina enc" userlevel="" priv="1"/>
+<table id="no_nomina_ingresos" name="no_nomina_ingresos" caption="no nomina ingresos" userlevel="" priv="1"/>
+<table id="no_nomina_liqprovision" name="no_nomina_liqprovision" caption="no nomina liqprovision" userlevel="" priv="1"/>
+<table id="no_nomina_proc" name="no_nomina_proc" caption="no nomina proc" userlevel="" priv="1"/>
+<table id="no_nomina_provisiones" name="no_nomina_provisiones" caption="no nomina provisiones" userlevel="" priv="1"/>
+<table id="no_nomina_puestos" name="no_nomina_puestos" caption="no nomina puestos" userlevel="" priv="1"/>
+<table id="no_nomina_repcol" name="no_nomina_repcol" caption="no nomina repcol" userlevel="" priv="1"/>
+<table id="no_nomina_reporte" name="no_nomina_reporte" caption="no nomina reporte" userlevel="" priv="1"/>
+<table id="no_nomina_reportedet" name="no_nomina_reportedet" caption="no nomina reportedet" userlevel="" priv="1"/>
+<table id="no_nomina_retribuciones" name="no_nomina_retribuciones" caption="no nomina retribuciones" userlevel="" priv="1"/>
+<table id="no_nomina_usuarios" name="no_nomina_usuarios" caption="no nomina usuarios" userlevel="" priv="1"/>
+<table id="no_nomina_vacparam" name="no_nomina_vacparam" caption="no nomina vacparam" userlevel="" priv="1"/>
+<table id="no_nomina_valores" name="no_nomina_valores" caption="no nomina valores" userlevel="" priv="1"/>
+<table id="no_nomina_valores_calculados" name="no_nomina_valores_calculados" caption="no nomina valores calculados" userlevel="" priv="1"/>
+<table id="no_nomina_valores_det" name="no_nomina_valores_det" caption="no nomina valores det" userlevel="" priv="1"/>
+<table id="no_nomina_variables_sistema" name="no_nomina_variables_sistema" caption="no nomina variables sistema" userlevel="" priv="1"/>
+<table id="no_parametros_gt_centros" name="no_parametros_gt_centros" caption="no parametros gt centros" userlevel="" priv="1"/>
+<table id="no_parametros_gt_det" name="no_parametros_gt_det" caption="no parametros gt det" userlevel="" priv="1"/>
+<table id="no_parametros_gt_tipos" name="no_parametros_gt_tipos" caption="no parametros gt tipos" userlevel="" priv="1"/>
+<table id="no_parametros_informe_gt" name="no_parametros_informe_gt" caption="no parametros informe gt" userlevel="" priv="1"/>
+<table id="no_parametros_libro_salarios_gt" name="no_parametros_libro_salarios_gt" caption="no parametros libro salarios gt" userlevel="" priv="1"/>
+<table id="no_parametros_liquidacion" name="no_parametros_liquidacion" caption="no parametros liquidacion" userlevel="" priv="1"/>
+<table id="no_parametros_renta_hn" name="no_parametros_renta_hn" caption="no parametros renta hn" userlevel="" priv="1"/>
+<table id="no_parametros_rentahn_ingresos" name="no_parametros_rentahn_ingresos" caption="no parametros rentahn ingresos" userlevel="" priv="1"/>
+<table id="no_parametros_rentahn_nominas" name="no_parametros_rentahn_nominas" caption="no parametros rentahn nominas" userlevel="" priv="1"/>
+<table id="no_parametros_rentahn_tasas" name="no_parametros_rentahn_tasas" caption="no parametros rentahn tasas" userlevel="" priv="1"/>
+<table id="no_parametros_seghn_deptos" name="no_parametros_seghn_deptos" caption="no parametros seghn deptos" userlevel="" priv="1"/>
+<table id="no_parametros_seghn_ingresos" name="no_parametros_seghn_ingresos" caption="no parametros seghn ingresos" userlevel="" priv="1"/>
+<table id="no_parametros_seghn_nominas" name="no_parametros_seghn_nominas" caption="no parametros seghn nominas" userlevel="" priv="1"/>
+<table id="no_parametros_seguro_gt" name="no_parametros_seguro_gt" caption="no parametros seguro gt" userlevel="" priv="1"/>
+<table id="no_parametros_seguro_hn" name="no_parametros_seguro_hn" caption="no parametros seguro hn" userlevel="" priv="1"/>
+<table id="no_parametros_siex" name="no_parametros_siex" caption="no parametros siex" userlevel="" priv="1"/>
+<table id="no_parametros_vechn_cuotas" name="no_parametros_vechn_cuotas" caption="no parametros vechn cuotas" userlevel="" priv="1"/>
+<table id="no_parametros_vechn_deptos" name="no_parametros_vechn_deptos" caption="no parametros vechn deptos" userlevel="" priv="1"/>
+<table id="no_parametros_vechn_ingresos" name="no_parametros_vechn_ingresos" caption="no parametros vechn ingresos" userlevel="" priv="1"/>
+<table id="no_parametros_vechn_nominas" name="no_parametros_vechn_nominas" caption="no parametros vechn nominas" userlevel="" priv="1"/>
+<table id="no_parametros_vechn_tasas" name="no_parametros_vechn_tasas" caption="no parametros vechn tasas" userlevel="" priv="1"/>
+<table id="no_parametros_vecinal_hn" name="no_parametros_vecinal_hn" caption="no parametros vecinal hn" userlevel="" priv="1"/>
+<table id="no_parentescos" name="no_parentescos" caption="no parentescos" userlevel="" priv="1"/>
+<table id="no_patronos_hn" name="no_patronos_hn" caption="no patronos hn" userlevel="" priv="1"/>
+<table id="no_patronos_hn_deptos" name="no_patronos_hn_deptos" caption="no patronos hn deptos" userlevel="" priv="1"/>
+<table id="no_patronos_hn_municipios" name="no_patronos_hn_municipios" caption="no patronos hn municipios" userlevel="" priv="1"/>
+<table id="no_periodos_pago" name="no_periodos_pago" caption="no periodos pago" userlevel="" priv="1"/>
+<table id="no_provisiones_deducciones" name="no_provisiones_deducciones" caption="no provisiones deducciones" userlevel="" priv="1"/>
+<table id="no_provisiones_departamento" name="no_provisiones_departamento" caption="no provisiones departamento" userlevel="" priv="1"/>
+<table id="no_provisiones_det" name="no_provisiones_det" caption="no provisiones det" userlevel="" priv="1"/>
+<table id="no_provisiones_empleados" name="no_provisiones_empleados" caption="no provisiones empleados" userlevel="" priv="1"/>
+<table id="no_provisiones_enc" name="no_provisiones_enc" caption="no provisiones enc" userlevel="" priv="1"/>
+<table id="no_provisiones_ingresos" name="no_provisiones_ingresos" caption="no provisiones ingresos" userlevel="" priv="1"/>
+<table id="no_provisiones_sap" name="no_provisiones_sap" caption="no provisiones sap" userlevel="" priv="1"/>
+<table id="no_puestos" name="no_puestos" caption="no puestos" userlevel="" priv="1"/>
+<table id="no_puestos_deducciones" name="no_puestos_deducciones" caption="no puestos deducciones" userlevel="" priv="1"/>
+<table id="no_puestos_ingresos" name="no_puestos_ingresos" caption="no puestos ingresos" userlevel="" priv="1"/>
+<table id="no_puestos_provisiones" name="no_puestos_provisiones" caption="no puestos provisiones" userlevel="" priv="1"/>
+<table id="no_referencias" name="no_referencias" caption="no referencias" userlevel="" priv="1"/>
+<table id="no_reporte_detalle" name="no_reporte_detalle" caption="no reporte detalle" userlevel="" priv="1"/>
+<table id="no_reporte_empleado" name="no_reporte_empleado" caption="no reporte empleado" userlevel="" priv="1"/>
+<table id="no_reporte_grupos" name="no_reporte_grupos" caption="no reporte grupos" userlevel="" priv="1"/>
+<table id="no_reporte_renta_hn" name="no_reporte_renta_hn" caption="no reporte renta hn" userlevel="" priv="1"/>
+<table id="no_reporte_rentahn_emping" name="no_reporte_rentahn_emping" caption="no reporte rentahn emping" userlevel="" priv="1"/>
+<table id="no_reporte_rentahn_empleado" name="no_reporte_rentahn_empleado" caption="no reporte rentahn empleado" userlevel="" priv="1"/>
+<table id="no_reporte_rentahn_emptasas" name="no_reporte_rentahn_emptasas" caption="no reporte rentahn emptasas" userlevel="" priv="1"/>
+<table id="no_reporte_seghn_empleado" name="no_reporte_seghn_empleado" caption="no reporte seghn empleado" userlevel="" priv="1"/>
+<table id="no_reporte_seguro" name="no_reporte_seguro" caption="no reporte seguro" userlevel="" priv="1"/>
+<table id="no_reporte_seguro_det" name="no_reporte_seguro_det" caption="no reporte seguro det" userlevel="" priv="1"/>
+<table id="no_reporte_seguro_hn" name="no_reporte_seguro_hn" caption="no reporte seguro hn" userlevel="" priv="1"/>
+<table id="no_reporte_valores" name="no_reporte_valores" caption="no reporte valores" userlevel="" priv="1"/>
+<table id="no_reporte_valores_estadistico" name="no_reporte_valores_estadistico" caption="no reporte valores estadistico" userlevel="" priv="1"/>
+<table id="no_reporte_valores_ingreso" name="no_reporte_valores_ingreso" caption="no reporte valores ingreso" userlevel="" priv="1"/>
+<table id="no_reporte_vechn_empleado" name="no_reporte_vechn_empleado" caption="no reporte vechn empleado" userlevel="" priv="1"/>
+<table id="no_reporte_vecinal_hn" name="no_reporte_vecinal_hn" caption="no reporte vecinal hn" userlevel="" priv="1"/>
+<table id="no_reportes_autorizaciones" name="no_reportes_autorizaciones" caption="no reportes autorizaciones" userlevel="" priv="1"/>
+<table id="no_reportes_empleados" name="no_reportes_empleados" caption="no reportes empleados" userlevel="" priv="1"/>
+<table id="no_reportes_generales" name="no_reportes_generales" caption="no reportes generales" userlevel="" priv="1"/>
+<table id="no_reportes_generales_campos" name="no_reportes_generales_campos" caption="no reportes generales campos" userlevel="" priv="1"/>
+<table id="no_reportes_generales_det" name="no_reportes_generales_det" caption="no reportes generales det" userlevel="" priv="1"/>
+<table id="no_salarios_minimos" name="no_salarios_minimos" caption="no salarios minimos" userlevel="" priv="1"/>
+<table id="no_secciones" name="no_secciones" caption="no secciones" userlevel="" priv="1"/>
+<table id="no_siex_departamentos" name="no_siex_departamentos" caption="no siex departamentos" userlevel="" priv="1"/>
+<table id="no_siex_municipios" name="no_siex_municipios" caption="no siex municipios" userlevel="" priv="1"/>
+<table id="no_siex_ocupaciones" name="no_siex_ocupaciones" caption="no siex ocupaciones" userlevel="" priv="1"/>
+<table id="no_siex_regiones" name="no_siex_regiones" caption="no siex regiones" userlevel="" priv="1"/>
+<table id="no_solicitud_ausdet" name="no_solicitud_ausdet" caption="no solicitud ausdet" userlevel="" priv="1"/>
+<table id="no_solicitud_ausencias" name="no_solicitud_ausencias" caption="no solicitud ausencias" userlevel="" priv="1"/>
+<table id="no_solicitud_ausvac" name="no_solicitud_ausvac" caption="no solicitud ausvac" userlevel="" priv="1"/>
+<table id="no_templeados" name="no_templeados" caption="no templeados" userlevel="" priv="1"/>
+<table id="no_tipos_entrenamiento" name="no_tipos_entrenamiento" caption="no tipos entrenamiento" userlevel="" priv="1"/>
+<table id="no_tipos_nomina" name="no_tipos_nomina" caption="no tipos nomina" userlevel="" priv="1"/>
+<table id="no_tipos_valores" name="no_tipos_valores" caption="no tipos valores" userlevel="" priv="1"/>
+<table id="no_usuario_parametros" name="no_usuario_parametros" caption="no usuario parametros" userlevel="" priv="1"/>
+<table id="no_vacaciones_ajustes" name="no_vacaciones_ajustes" caption="no vacaciones ajustes" userlevel="" priv="1"/>
+<table id="no_valores_reportados" name="no_valores_reportados" caption="no valores reportados" userlevel="" priv="1"/>
+<table id="no_valores_reportados_tr" name="no_valores_reportados_tr" caption="no valores reportados tr" userlevel="" priv="1"/>
+<table id="no_variables_sistema" name="no_variables_sistema" caption="no variables sistema" userlevel="" priv="1"/>
+<table id="op_correlativos" name="op_correlativos" caption="op correlativos" userlevel="" priv="1"/>
+<table id="op_despachos_enc" name="op_despachos_enc" caption="op despachos enc" userlevel="" priv="1"/>
+<table id="op_despachos_prod" name="op_despachos_prod" caption="op despachos prod" userlevel="" priv="1"/>
+<table id="partidainicial" name="partidainicial" caption="partidainicial" userlevel="" priv="1"/>
+<table id="partidas" name="partidas" caption="partidas" userlevel="" priv="1"/>
+<table id="pd_calculo_prom_det" name="pd_calculo_prom_det" caption="pd calculo prom det" userlevel="" priv="1"/>
+<table id="pd_calculo_promocion" name="pd_calculo_promocion" caption="pd calculo promocion" userlevel="" priv="1"/>
+<table id="pd_cantidades" name="pd_cantidades" caption="pd cantidades" userlevel="" priv="1"/>
+<table id="pd_clases_promocion" name="pd_clases_promocion" caption="pd clases promocion" userlevel="" priv="1"/>
+<table id="pd_clientes" name="pd_clientes" caption="pd clientes" userlevel="" priv="1"/>
+<table id="pd_generales" name="pd_generales" caption="pd generales" userlevel="" priv="1"/>
+<table id="pd_gruclientes" name="pd_gruclientes" caption="pd gruclientes" userlevel="" priv="1"/>
+<table id="pd_gruclientes_traslados" name="pd_gruclientes_traslados" caption="pd gruclientes traslados" userlevel="" priv="1"/>
+<table id="pd_grupos" name="pd_grupos" caption="pd grupos" userlevel="" priv="1"/>
+<table id="pd_grupos_traslados" name="pd_grupos_traslados" caption="pd grupos traslados" userlevel="" priv="1"/>
+<table id="pd_gruvolumen" name="pd_gruvolumen" caption="pd gruvolumen" userlevel="" priv="1"/>
+<table id="pd_gruVolumen_traslados" name="pd_gruVolumen_traslados" caption="pd gru Volumen traslados" userlevel="" priv="1"/>
+<table id="pd_gruvolumendet" name="pd_gruvolumendet" caption="pd gruvolumendet" userlevel="" priv="1"/>
+<table id="pd_gruVolumenDet_traslados" name="pd_gruVolumenDet_traslados" caption="pd gru Volumen Det traslados" userlevel="" priv="1"/>
+<table id="pd_multiplos" name="pd_multiplos" caption="pd multiplos" userlevel="" priv="1"/>
+<table id="pd_multiplos_traslados" name="pd_multiplos_traslados" caption="pd multiplos traslados" userlevel="" priv="1"/>
+<table id="pd_multiplosdet" name="pd_multiplosdet" caption="pd multiplosdet" userlevel="" priv="1"/>
+<table id="pd_multiplosdet_traslados" name="pd_multiplosdet_traslados" caption="pd multiplosdet traslados" userlevel="" priv="1"/>
+<table id="pd_multiplosgrupo" name="pd_multiplosgrupo" caption="pd multiplosgrupo" userlevel="" priv="1"/>
+<table id="pd_MultiplosGrupo_traslados" name="pd_MultiplosGrupo_traslados" caption="pd Multiplos Grupo traslados" userlevel="" priv="1"/>
+<table id="pd_multiplosgrupodet" name="pd_multiplosgrupodet" caption="pd multiplosgrupodet" userlevel="" priv="1"/>
+<table id="pd_MultiplosGrupoDet_traslados" name="pd_MultiplosGrupoDet_traslados" caption="pd Multiplos Grupo Det traslados" userlevel="" priv="1"/>
+<table id="pd_productos" name="pd_productos" caption="pd productos" userlevel="" priv="1"/>
+<table id="pd_productos_traslados" name="pd_productos_traslados" caption="pd productos traslados" userlevel="" priv="1"/>
+<table id="pd_promociones" name="pd_promociones" caption="pd promociones" userlevel="" priv="1"/>
+<table id="pd_promociones_traslados" name="pd_promociones_traslados" caption="pd promociones traslados" userlevel="" priv="1"/>
+<table id="pd_provolumen" name="pd_provolumen" caption="pd provolumen" userlevel="" priv="1"/>
+<table id="pd_proVolumen_traslados" name="pd_proVolumen_traslados" caption="pd pro Volumen traslados" userlevel="" priv="1"/>
+<table id="pd_provolumendet" name="pd_provolumendet" caption="pd provolumendet" userlevel="" priv="1"/>
+<table id="pd_provolumenDet_traslados" name="pd_provolumenDet_traslados" caption="pd provolumen Det traslados" userlevel="" priv="1"/>
+<table id="pd_sucursales" name="pd_sucursales" caption="pd sucursales" userlevel="" priv="1"/>
+<table id="pd_sucursales_traslados" name="pd_sucursales_traslados" caption="pd sucursales traslados" userlevel="" priv="1"/>
+<table id="pd_tipos_pago" name="pd_tipos_pago" caption="pd tipos pago" userlevel="" priv="1"/>
+<table id="pd_tipos_pago_traslados" name="pd_tipos_pago_traslados" caption="pd tipos pago traslados" userlevel="" priv="1"/>
+<table id="pd_volumen" name="pd_volumen" caption="pd volumen" userlevel="" priv="1"/>
+<table id="pd_volumen_traslados" name="pd_volumen_traslados" caption="pd volumen traslados" userlevel="" priv="1"/>
+<table id="pd_volumendet" name="pd_volumendet" caption="pd volumendet" userlevel="" priv="1"/>
+<table id="pd_volumendet_traslados" name="pd_volumendet_traslados" caption="pd volumendet traslados" userlevel="" priv="1"/>
+<table id="PeriodosBodegas" name="PeriodosBodegas" caption="Periodos Bodegas" userlevel="" priv="1"/>
+<table id="pif_bitacora" name="pif_bitacora" caption="pif bitacora" userlevel="" priv="1"/>
+<table id="pif_terminal_producto" name="pif_terminal_producto" caption="pif terminal producto" userlevel="" priv="1"/>
+<table id="pif_terminales" name="pif_terminales" caption="pif terminales" userlevel="" priv="1"/>
+<table id="ProductosArreglar" name="ProductosArreglar" caption="Productos Arreglar" userlevel="" priv="1"/>
+<table id="ProductosSinMovimiento" name="ProductosSinMovimiento" caption="Productos Sin Movimiento" userlevel="" priv="1"/>
+<table id="proveedoresdep" name="proveedoresdep" caption="proveedoresdep" userlevel="" priv="1"/>
+<table id="proymontana" name="proymontana" caption="proymontana" userlevel="" priv="1"/>
+<table id="Puestos24" name="Puestos$" caption="Puestos$" userlevel="" priv="1"/>
+<table id="Puestos224" name="Puestos2$" caption="Puestos 2$" userlevel="" priv="1"/>
+<table id="pv_asistencia" name="pv_asistencia" caption="pv asistencia" userlevel="" priv="1"/>
+<table id="pv_asistencia_tmp" name="pv_asistencia_tmp" caption="pv asistencia tmp" userlevel="" priv="1"/>
+<table id="pv_bitacora" name="pv_bitacora" caption="pv bitacora" userlevel="" priv="1"/>
+<table id="pv_bitacora_Resolucion" name="pv_bitacora_Resolucion" caption="pv bitacora Resolucion" userlevel="" priv="1"/>
+<table id="pv_bitacora_traslado" name="pv_bitacora_traslado" caption="pv bitacora traslado" userlevel="" priv="1"/>
+<table id="pv_cajas" name="pv_cajas" caption="pv cajas" userlevel="" priv="1"/>
+<table id="pv_cajascorrelat" name="pv_cajascorrelat" caption="pv cajascorrelat" userlevel="" priv="1"/>
+<table id="pv_cajascorrelath" name="pv_cajascorrelath" caption="pv cajascorrelath" userlevel="" priv="1"/>
+<table id="pv_cajeros" name="pv_cajeros" caption="pv cajeros" userlevel="" priv="1"/>
+<table id="pv_cierres_caja" name="pv_cierres_caja" caption="pv cierres caja" userlevel="" priv="1"/>
+<table id="pv_clientes_frecuentes" name="pv_clientes_frecuentes" caption="pv clientes frecuentes" userlevel="" priv="1"/>
+<table id="pv_consigna_asociado" name="pv_consigna_asociado" caption="pv consigna asociado" userlevel="" priv="1"/>
+<table id="pv_consigna_det" name="pv_consigna_det" caption="pv consigna det" userlevel="" priv="1"/>
+<table id="pv_consigna_enc" name="pv_consigna_enc" caption="pv consigna enc" userlevel="" priv="1"/>
+<table id="pv_consigna_inv" name="pv_consigna_inv" caption="pv consigna inv" userlevel="" priv="1"/>
+<table id="pv_consigna_kits" name="pv_consigna_kits" caption="pv consigna kits" userlevel="" priv="1"/>
+<table id="pv_consigna_kitspro" name="pv_consigna_kitspro" caption="pv consigna kitspro" userlevel="" priv="1"/>
+<table id="pv_consigna_pro" name="pv_consigna_pro" caption="pv consigna pro" userlevel="" priv="1"/>
+<table id="pv_consigna_pro_asociado" name="pv_consigna_pro_asociado" caption="pv consigna pro asociado" userlevel="" priv="1"/>
+<table id="pv_correlativos" name="pv_correlativos" caption="pv correlativos" userlevel="" priv="1"/>
+<table id="pv_cotizaciones_det" name="pv_cotizaciones_det" caption="pv cotizaciones det" userlevel="" priv="1"/>
+<table id="pv_cotizaciones_enc" name="pv_cotizaciones_enc" caption="pv cotizaciones enc" userlevel="" priv="1"/>
+<table id="pv_cotizaciones_kits" name="pv_cotizaciones_kits" caption="pv cotizaciones kits" userlevel="" priv="1"/>
+<table id="pv_cotizaciones_kitspro" name="pv_cotizaciones_kitspro" caption="pv cotizaciones kitspro" userlevel="" priv="1"/>
+<table id="pv_cotizaciones_pro" name="pv_cotizaciones_pro" caption="pv cotizaciones pro" userlevel="" priv="1"/>
+<table id="pv_cotizaciones_tiendas_det" name="pv_cotizaciones_tiendas_det" caption="pv cotizaciones tiendas det" userlevel="" priv="1"/>
+<table id="pv_cotizaciones_tiendas_enc" name="pv_cotizaciones_tiendas_enc" caption="pv cotizaciones tiendas enc" userlevel="" priv="1"/>
+<table id="pv_cotizaciones_tiendas_kits" name="pv_cotizaciones_tiendas_kits" caption="pv cotizaciones tiendas kits" userlevel="" priv="1"/>
+<table id="pv_cotizaciones_tiendas_kitspro" name="pv_cotizaciones_tiendas_kitspro" caption="pv cotizaciones tiendas kitspro" userlevel="" priv="1"/>
+<table id="pv_cotizaciones_tiendas_pro" name="pv_cotizaciones_tiendas_pro" caption="pv cotizaciones tiendas pro" userlevel="" priv="1"/>
+<table id="pv_devolucion_det" name="pv_devolucion_det" caption="pv devolucion det" userlevel="" priv="1"/>
+<table id="pv_devolucion_enc" name="pv_devolucion_enc" caption="pv devolucion enc" userlevel="" priv="1"/>
+<table id="pv_devolucion_kits" name="pv_devolucion_kits" caption="pv devolucion kits" userlevel="" priv="1"/>
+<table id="pv_devolucion_kitspro" name="pv_devolucion_kitspro" caption="pv devolucion kitspro" userlevel="" priv="1"/>
+<table id="pv_devolucion_pro" name="pv_devolucion_pro" caption="pv devolucion pro" userlevel="" priv="1"/>
+<table id="pv_eventos" name="pv_eventos" caption="pv eventos" userlevel="" priv="1"/>
+<table id="pv_eventos_generales" name="pv_eventos_generales" caption="pv eventos generales" userlevel="" priv="1"/>
+<table id="pv_eventos_tipostarjeta" name="pv_eventos_tipostarjeta" caption="pv eventos tipostarjeta" userlevel="" priv="1"/>
+<table id="pv_facturas_asociados" name="pv_facturas_asociados" caption="pv facturas asociados" userlevel="" priv="1"/>
+<table id="pv_facturas_asociados_traslados" name="pv_facturas_asociados_traslados" caption="pv facturas asociados traslados" userlevel="" priv="1"/>
+<table id="pv_facturas_det" name="pv_facturas_det" caption="pv facturas det" userlevel="" priv="1"/>
+<table id="pv_facturas_det_traslados" name="pv_facturas_det_traslados" caption="pv facturas det traslados" userlevel="" priv="1"/>
+<table id="pv_facturas_enc" name="pv_facturas_enc" caption="pv facturas enc" userlevel="" priv="1"/>
+<table id="pv_facturas_enc_traslados" name="pv_facturas_enc_traslados" caption="pv facturas enc traslados" userlevel="" priv="1"/>
+<table id="pv_facturas_inv" name="pv_facturas_inv" caption="pv facturas inv" userlevel="" priv="1"/>
+<table id="pv_facturas_inv_anul" name="pv_facturas_inv_anul" caption="pv facturas inv anul" userlevel="" priv="1"/>
+<table id="pv_facturas_inv_traslados" name="pv_facturas_inv_traslados" caption="pv facturas inv traslados" userlevel="" priv="1"/>
+<table id="pv_facturas_kits" name="pv_facturas_kits" caption="pv facturas kits" userlevel="" priv="1"/>
+<table id="pv_facturas_kits_traslados" name="pv_facturas_kits_traslados" caption="pv facturas kits traslados" userlevel="" priv="1"/>
+<table id="pv_facturas_kitspro" name="pv_facturas_kitspro" caption="pv facturas kitspro" userlevel="" priv="1"/>
+<table id="pv_facturas_kitspro_traslados" name="pv_facturas_kitspro_traslados" caption="pv facturas kitspro traslados" userlevel="" priv="1"/>
+<table id="pv_facturas_malas" name="pv_facturas_malas" caption="pv facturas malas" userlevel="" priv="1"/>
+<table id="pv_facturas_malas_det" name="pv_facturas_malas_det" caption="pv facturas malas det" userlevel="" priv="1"/>
+<table id="pv_facturas_malas_enc" name="pv_facturas_malas_enc" caption="pv facturas malas enc" userlevel="" priv="1"/>
+<table id="pv_facturas_ordenes" name="pv_facturas_ordenes" caption="pv facturas ordenes" userlevel="" priv="1"/>
+<table id="pv_facturas_ordenes_traslados" name="pv_facturas_ordenes_traslados" caption="pv facturas ordenes traslados" userlevel="" priv="1"/>
+<table id="pv_facturas_pro" name="pv_facturas_pro" caption="pv facturas pro" userlevel="" priv="1"/>
+<table id="pv_facturas_pro_asociados" name="pv_facturas_pro_asociados" caption="pv facturas pro asociados" userlevel="" priv="1"/>
+<table id="pv_facturas_pro_asociados_traslados" name="pv_facturas_pro_asociados_traslados" caption="pv facturas pro asociados traslados" userlevel="" priv="1"/>
+<table id="pv_facturas_pro_traslados" name="pv_facturas_pro_traslados" caption="pv facturas pro traslados" userlevel="" priv="1"/>
+<table id="pv_facturas_s_traslado" name="pv_facturas_s_traslado" caption="pv facturas s traslado" userlevel="" priv="1"/>
+<table id="pv_facturas_sesiones" name="pv_facturas_sesiones" caption="pv facturas sesiones" userlevel="" priv="1"/>
+<table id="PV_facturasOut" name="PV_facturasOut" caption="PV facturas Out" userlevel="" priv="1"/>
+<table id="pv_generales" name="pv_generales" caption="pv generales" userlevel="" priv="1"/>
+<table id="pv_grupos_tarjetas" name="pv_grupos_tarjetas" caption="pv grupos tarjetas" userlevel="" priv="1"/>
+<table id="pv_listas_precios" name="pv_listas_precios" caption="pv listas precios" userlevel="" priv="1"/>
+<table id="pv_listas_tipos" name="pv_listas_tipos" caption="pv listas tipos" userlevel="" priv="1"/>
+<table id="pv_mailmerge" name="pv_mailmerge" caption="pv mailmerge" userlevel="" priv="1"/>
+<table id="pv_motivos_anulacion" name="pv_motivos_anulacion" caption="pv motivos anulacion" userlevel="" priv="1"/>
+<table id="pv_motivos_nc" name="pv_motivos_nc" caption="pv motivos nc" userlevel="" priv="1"/>
+<table id="pv_motivos_nd" name="pv_motivos_nd" caption="pv motivos nd" userlevel="" priv="1"/>
+<table id="pv_muestras_det" name="pv_muestras_det" caption="pv muestras det" userlevel="" priv="1"/>
+<table id="pv_muestras_enc" name="pv_muestras_enc" caption="pv muestras enc" userlevel="" priv="1"/>
+<table id="pv_muestras_inv" name="pv_muestras_inv" caption="pv muestras inv" userlevel="" priv="1"/>
+<table id="pv_muestras_kits" name="pv_muestras_kits" caption="pv muestras kits" userlevel="" priv="1"/>
+<table id="pv_muestras_kitspro" name="pv_muestras_kitspro" caption="pv muestras kitspro" userlevel="" priv="1"/>
+<table id="pv_muestras_pro" name="pv_muestras_pro" caption="pv muestras pro" userlevel="" priv="1"/>
+<table id="pv_ncredito_det" name="pv_ncredito_det" caption="pv ncredito det" userlevel="" priv="1"/>
+<table id="pv_ncredito_det_traslados" name="pv_ncredito_det_traslados" caption="pv ncredito det traslados" userlevel="" priv="1"/>
+<table id="pv_ncredito_enc" name="pv_ncredito_enc" caption="pv ncredito enc" userlevel="" priv="1"/>
+<table id="pv_ncredito_enc_traslados" name="pv_ncredito_enc_traslados" caption="pv ncredito enc traslados" userlevel="" priv="1"/>
+<table id="pv_ncredito_inv" name="pv_ncredito_inv" caption="pv ncredito inv" userlevel="" priv="1"/>
+<table id="pv_ncredito_inv_traslados" name="pv_ncredito_inv_traslados" caption="pv ncredito inv traslados" userlevel="" priv="1"/>
+<table id="pv_ncredito_kits" name="pv_ncredito_kits" caption="pv ncredito kits" userlevel="" priv="1"/>
+<table id="pv_ncredito_kits_traslados" name="pv_ncredito_kits_traslados" caption="pv ncredito kits traslados" userlevel="" priv="1"/>
+<table id="pv_ncredito_kitspro" name="pv_ncredito_kitspro" caption="pv ncredito kitspro" userlevel="" priv="1"/>
+<table id="pv_ncredito_kitspro_traslados" name="pv_ncredito_kitspro_traslados" caption="pv ncredito kitspro traslados" userlevel="" priv="1"/>
+<table id="pv_ncredito_pro" name="pv_ncredito_pro" caption="pv ncredito pro" userlevel="" priv="1"/>
+<table id="pv_ncredito_pro_traslados" name="pv_ncredito_pro_traslados" caption="pv ncredito pro traslados" userlevel="" priv="1"/>
+<table id="pv_ncredito_s_traslado" name="pv_ncredito_s_traslado" caption="pv ncredito s traslado" userlevel="" priv="1"/>
+<table id="pv_ndebito_det" name="pv_ndebito_det" caption="pv ndebito det" userlevel="" priv="1"/>
+<table id="pv_ndebito_enc" name="pv_ndebito_enc" caption="pv ndebito enc" userlevel="" priv="1"/>
+<table id="pv_ndebito_inv" name="pv_ndebito_inv" caption="pv ndebito inv" userlevel="" priv="1"/>
+<table id="pv_ndebito_kits" name="pv_ndebito_kits" caption="pv ndebito kits" userlevel="" priv="1"/>
+<table id="pv_ndebito_kitspro" name="pv_ndebito_kitspro" caption="pv ndebito kitspro" userlevel="" priv="1"/>
+<table id="pv_ndebito_pro" name="pv_ndebito_pro" caption="pv ndebito pro" userlevel="" priv="1"/>
+<table id="pv_NitValido" name="pv_NitValido" caption="pv Nit Valido" userlevel="" priv="1"/>
+<table id="pv_otros_tipospago" name="pv_otros_tipospago" caption="pv otros tipospago" userlevel="" priv="1"/>
+<table id="pv_pago_cheque" name="pv_pago_cheque" caption="pv pago cheque" userlevel="" priv="1"/>
+<table id="pv_pago_documentos" name="pv_pago_documentos" caption="pv pago documentos" userlevel="" priv="1"/>
+<table id="pv_pago_efectivo" name="pv_pago_efectivo" caption="pv pago efectivo" userlevel="" priv="1"/>
+<table id="pv_pago_tarjeta" name="pv_pago_tarjeta" caption="pv pago tarjeta" userlevel="" priv="1"/>
+<table id="pv_partida_dia" name="pv_partida_dia" caption="pv partida dia" userlevel="" priv="1"/>
+<table id="pv_partida_dia_det" name="pv_partida_dia_det" caption="pv partida dia det" userlevel="" priv="1"/>
+<table id="pv_partida_dia_obs" name="pv_partida_dia_obs" caption="pv partida dia obs" userlevel="" priv="1"/>
+<table id="pv_partida_titulos" name="pv_partida_titulos" caption="pv partida titulos" userlevel="" priv="1"/>
+<table id="pv_partidacredito_dia" name="pv_partidacredito_dia" caption="pv partidacredito dia" userlevel="" priv="1"/>
+<table id="pv_partidacredito_dia_det" name="pv_partidacredito_dia_det" caption="pv partidacredito dia det" userlevel="" priv="1"/>
+<table id="pv_partidacredito_dia_obs" name="pv_partidacredito_dia_obs" caption="pv partidacredito dia obs" userlevel="" priv="1"/>
+<table id="pv_partidacredito_titulos" name="pv_partidacredito_titulos" caption="pv partidacredito titulos" userlevel="" priv="1"/>
+<table id="pv_precios_kits" name="pv_precios_kits" caption="pv precios kits" userlevel="" priv="1"/>
+<table id="pv_precios_productos" name="pv_precios_productos" caption="pv precios productos" userlevel="" priv="1"/>
+<table id="pv_puntos" name="pv_puntos" caption="pv puntos" userlevel="" priv="1"/>
+<table id="pv_puntos_detalle" name="pv_puntos_detalle" caption="pv puntos detalle" userlevel="" priv="1"/>
+<table id="pv_puntos_generales" name="pv_puntos_generales" caption="pv puntos generales" userlevel="" priv="1"/>
+<table id="pv_puntos_tarjetas" name="pv_puntos_tarjetas" caption="pv puntos tarjetas" userlevel="" priv="1"/>
+<table id="pv_segmento_clientes" name="pv_segmento_clientes" caption="pv segmento clientes" userlevel="" priv="1"/>
+<table id="pv_tarjetas_eventos" name="pv_tarjetas_eventos" caption="pv tarjetas eventos" userlevel="" priv="1"/>
+<table id="pv_tarjetas_preferenciales" name="pv_tarjetas_preferenciales" caption="pv tarjetas preferenciales" userlevel="" priv="1"/>
+<table id="pv_tipos_movimiento" name="pv_tipos_movimiento" caption="pv tipos movimiento" userlevel="" priv="1"/>
+<table id="pv_tipos_ordenes_cliente" name="pv_tipos_ordenes_cliente" caption="pv tipos ordenes cliente" userlevel="" priv="1"/>
+<table id="pv_tipos_pago" name="pv_tipos_pago" caption="pv tipos pago" userlevel="" priv="1"/>
+<table id="pv_tipos_tarjetas" name="pv_tipos_tarjetas" caption="pv tipos tarjetas" userlevel="" priv="1"/>
+<table id="pv_usuario_otros_tipospago" name="pv_usuario_otros_tipospago" caption="pv usuario otros tipospago" userlevel="" priv="1"/>
+<table id="pv_usuarios_tipos" name="pv_usuarios_tipos" caption="pv usuarios tipos" userlevel="" priv="1"/>
+<table id="pv_vendedores_clientes" name="pv_vendedores_clientes" caption="pv vendedores clientes" userlevel="" priv="1"/>
+<table id="py_proyectos" name="py_proyectos" caption="py proyectos" userlevel="" priv="1"/>
+<table id="RateTiers" name="RateTiers" caption="Rate Tiers" userlevel="" priv="1"/>
+<table id="rc_contrasenias_det" name="rc_contrasenias_det" caption="rc contrasenias det" userlevel="" priv="1"/>
+<table id="rc_contrasenias_enc" name="rc_contrasenias_enc" caption="rc contrasenias enc" userlevel="" priv="1"/>
+<table id="rc_parametros" name="rc_parametros" caption="rc parametros" userlevel="" priv="1"/>
+<table id="rc_recepcion" name="rc_recepcion" caption="rc recepcion" userlevel="" priv="1"/>
+<table id="rc_tipo_documento" name="rc_tipo_documento" caption="rc tipo documento" userlevel="" priv="1"/>
+<table id="ResumenVentas" name="ResumenVentas" caption="Resumen Ventas" userlevel="" priv="1"/>
+<table id="sap_bancos" name="sap_bancos" caption="sap bancos" userlevel="" priv="1"/>
+<table id="sap_bitacora_det" name="sap_bitacora_det" caption="sap bitacora det" userlevel="" priv="1"/>
+<table id="sap_bitacora_enc" name="sap_bitacora_enc" caption="sap bitacora enc" userlevel="" priv="1"/>
+<table id="sap_centros" name="sap_centros" caption="sap centros" userlevel="" priv="1"/>
+<table id="sap_deducciones_proyectos" name="sap_deducciones_proyectos" caption="sap deducciones proyectos" userlevel="" priv="1"/>
+<table id="sap_deducciones_secciones" name="sap_deducciones_secciones" caption="sap deducciones secciones" userlevel="" priv="1"/>
+<table id="sap_egresos" name="sap_egresos" caption="sap egresos" userlevel="" priv="1"/>
+<table id="sap_empleados" name="sap_empleados" caption="sap empleados" userlevel="" priv="1"/>
+<table id="sap_ingresos" name="sap_ingresos" caption="sap ingresos" userlevel="" priv="1"/>
+<table id="sap_ingresos_centros" name="sap_ingresos_centros" caption="sap ingresos centros" userlevel="" priv="1"/>
+<table id="sap_ingresos_proyectos" name="sap_ingresos_proyectos" caption="sap ingresos proyectos" userlevel="" priv="1"/>
+<table id="sap_ingresos_secciones" name="sap_ingresos_secciones" caption="sap ingresos secciones" userlevel="" priv="1"/>
+<table id="sap_parametros" name="sap_parametros" caption="sap parametros" userlevel="" priv="1"/>
+<table id="sap_provision" name="sap_provision" caption="sap provision" userlevel="" priv="1"/>
+<table id="sap_provisiones" name="sap_provisiones" caption="sap provisiones" userlevel="" priv="1"/>
+<table id="sap_provisiones_adicionales" name="sap_provisiones_adicionales" caption="sap provisiones adicionales" userlevel="" priv="1"/>
+<table id="sap_provisiones_centros" name="sap_provisiones_centros" caption="sap provisiones centros" userlevel="" priv="1"/>
+<table id="sap_provisiones_proyectos" name="sap_provisiones_proyectos" caption="sap provisiones proyectos" userlevel="" priv="1"/>
+<table id="sap_provisiones_secciones" name="sap_provisiones_secciones" caption="sap provisiones secciones" userlevel="" priv="1"/>
+<table id="sap_renglones" name="sap_renglones" caption="sap renglones" userlevel="" priv="1"/>
+<table id="sap_renglones_deducciones" name="sap_renglones_deducciones" caption="sap renglones deducciones" userlevel="" priv="1"/>
+<table id="sap_renglones_ingresos" name="sap_renglones_ingresos" caption="sap renglones ingresos" userlevel="" priv="1"/>
+<table id="sap_tr_bancos" name="sap_tr_bancos" caption="sap tr bancos" userlevel="" priv="1"/>
+<table id="sap_tr_centros" name="sap_tr_centros" caption="sap tr centros" userlevel="" priv="1"/>
+<table id="sap_tr_country" name="sap_tr_country" caption="sap tr country" userlevel="" priv="1"/>
+<table id="sap_tr_cuentas" name="sap_tr_cuentas" caption="sap tr cuentas" userlevel="" priv="1"/>
+<table id="sap_tr_proyectos" name="sap_tr_proyectos" caption="sap tr proyectos" userlevel="" priv="1"/>
+<table id="sap_valores_reportados" name="sap_valores_reportados" caption="sap valores reportados" userlevel="" priv="1"/>
+<table id="sap_valores_reportados_ing" name="sap_valores_reportados_ing" caption="sap valores reportados ing" userlevel="" priv="1"/>
+<table id="seguridad" name="seguridad" caption="seguridad" userlevel="" priv="1"/>
+<table id="seguridad1" name="seguridad1" caption="seguridad 1" userlevel="" priv="1"/>
+<table id="seguridad2" name="seguridad2" caption="seguridad 2" userlevel="" priv="1"/>
+<table id="ShiftDay" name="ShiftDay" caption="Shift Day" userlevel="" priv="1"/>
+<table id="ShiftDayPeriod" name="ShiftDayPeriod" caption="Shift Day Period" userlevel="" priv="1"/>
+<table id="Shifts" name="Shifts" caption="Shifts" userlevel="" priv="1"/>
+<table id="siexpermanentes" name="siexpermanentes" caption="siexpermanentes" userlevel="" priv="1"/>
+<table id="sr_eventos" name="sr_eventos" caption="sr eventos" userlevel="" priv="1"/>
+<table id="sr_miembros" name="sr_miembros" caption="sr miembros" userlevel="" priv="1"/>
+<table id="sr_modulos" name="sr_modulos" caption="sr modulos" userlevel="" priv="1"/>
+<table id="sr_objetoeventos" name="sr_objetoeventos" caption="sr objetoeventos" userlevel="" priv="1"/>
+<table id="sr_objetos" name="sr_objetos" caption="sr objetos" userlevel="" priv="1"/>
+<table id="sr_roles" name="sr_roles" caption="sr roles" userlevel="" priv="1"/>
+<table id="sr_roleseventos" name="sr_roleseventos" caption="sr roleseventos" userlevel="" priv="1"/>
+<table id="sr_rolesmodulos" name="sr_rolesmodulos" caption="sr rolesmodulos" userlevel="" priv="1"/>
+<table id="sr_rolesobjetos" name="sr_rolesobjetos" caption="sr rolesobjetos" userlevel="" priv="1"/>
+<table id="sr_usuarios" name="sr_usuarios" caption="sr usuarios" userlevel="" priv="1"/>
+<table id="SucursalVendedor" name="SucursalVendedor" caption="Sucursal Vendedor" userlevel="" priv="1"/>
+<table id="sueldos24" name="sueldos$" caption="sueldos$" userlevel="" priv="1"/>
+<table id="sueldos224" name="sueldos2$" caption="sueldos 2$" userlevel="" priv="1"/>
+<table id="sy_campo" name="sy_campo" caption="sy campo" userlevel="" priv="1"/>
+<table id="sy_tabla" name="sy_tabla" caption="sy tabla" userlevel="" priv="1"/>
+<table id="sysdiagrams" name="sysdiagrams" caption="sysdiagrams" userlevel="" priv="1"/>
+<table id="tbl_cod_barras" name="tbl_cod_barras" caption="tbl cod barras" userlevel="" priv="1"/>
+<table id="tbl_jda" name="tbl_jda" caption="tbl jda" userlevel="" priv="1"/>
+<table id="TBL_SHOWCONTIG" name="TBL_SHOWCONTIG" caption="TBL SHOWCONTIG" userlevel="" priv="1"/>
+<table id="temp" name="temp" caption="temp" userlevel="" priv="1"/>
+<table id="Temp_bn_cheques_enc" name="Temp_bn_cheques_enc" caption="Temp bn cheques enc" userlevel="" priv="1"/>
+<table id="temp_cc_vendedor" name="temp_cc_vendedor" caption="temp cc vendedor" userlevel="" priv="1"/>
+<table id="temp_cccubo" name="temp_cccubo" caption="temp cccubo" userlevel="" priv="1"/>
+<table id="temp_ccgeneral1" name="temp_ccgeneral1" caption="temp ccgeneral 1" userlevel="" priv="1"/>
+<table id="temp_corrije_traslados" name="temp_corrije_traslados" caption="temp corrije traslados" userlevel="" priv="1"/>
+<table id="Temp_costos_det" name="Temp_costos_det" caption="Temp costos det" userlevel="" priv="1"/>
+<table id="temp_cp_anticipos" name="temp_cp_anticipos" caption="temp cp anticipos" userlevel="" priv="1"/>
+<table id="temp_cp_cuentas_a_pagar" name="temp_cp_cuentas_a_pagar" caption="temp cp cuentas a pagar" userlevel="" priv="1"/>
+<table id="Temp_cp_cuentas_a_pagar2" name="Temp_cp_cuentas_a_pagar2" caption="Temp cp cuentas a pagar 2" userlevel="" priv="1"/>
+<table id="Temp_cp_cuentas_a_pagar3" name="Temp_cp_cuentas_a_pagar3" caption="Temp cp cuentas a pagar 3" userlevel="" priv="1"/>
+<table id="temp_cp_cuentasapagar_ctas" name="temp_cp_cuentasapagar_ctas" caption="temp cp cuentasapagar ctas" userlevel="" priv="1"/>
+<table id="Temp_cp_cuentasapagar_ctas3" name="Temp_cp_cuentasapagar_ctas3" caption="Temp cp cuentasapagar ctas 3" userlevel="" priv="1"/>
+<table id="temp_inv" name="temp_inv" caption="temp inv" userlevel="" priv="1"/>
+<table id="temp_inve01" name="temp_inve01" caption="temp inve 01" userlevel="" priv="1"/>
+<table id="temp_no_valores_reportados" name="temp_no_valores_reportados" caption="temp no valores reportados" userlevel="" priv="1"/>
+<table id="tempAbonos" name="tempAbonos" caption="temp Abonos" userlevel="" priv="1"/>
+<table id="tempAjustes" name="tempAjustes" caption="temp Ajustes" userlevel="" priv="1"/>
+<table id="tempAnticipos" name="tempAnticipos" caption="temp Anticipos" userlevel="" priv="1"/>
+<table id="tempcp_saldos" name="tempcp_saldos" caption="tempcp saldos" userlevel="" priv="1"/>
+<table id="tempctas" name="tempctas" caption="tempctas" userlevel="" priv="1"/>
+<table id="tempcuadre" name="tempcuadre" caption="tempcuadre" userlevel="" priv="1"/>
+<table id="tempcuadre1" name="tempcuadre1" caption="tempcuadre 1" userlevel="" priv="1"/>
+<table id="tempdepositos" name="tempdepositos" caption="tempdepositos" userlevel="" priv="1"/>
+<table id="Templates" name="Templates" caption="Templates" userlevel="" priv="1"/>
+<table id="tempora_inv" name="tempora_inv" caption="tempora inv" userlevel="" priv="1"/>
+<table id="temporal_analisis" name="temporal_analisis" caption="temporal analisis" userlevel="" priv="1"/>
+<table id="TEMPORAL_BALANCE" name="TEMPORAL_BALANCE" caption="TEMPORAL BALANCE" userlevel="" priv="1"/>
+<table id="TEMPORAL_CUENTAS" name="TEMPORAL_CUENTAS" caption="TEMPORAL CUENTAS" userlevel="" priv="1"/>
+<table id="temporal_inv2" name="temporal_inv2" caption="temporal inv 2" userlevel="" priv="1"/>
+<table id="temporal_inventario" name="temporal_inventario" caption="temporal inventario" userlevel="" priv="1"/>
+<table id="temporal_porcentajes" name="temporal_porcentajes" caption="temporal porcentajes" userlevel="" priv="1"/>
+<table id="Temporal1" name="Temporal1" caption="Temporal 1" userlevel="" priv="1"/>
+<table id="Temporal2" name="Temporal2" caption="Temporal 2" userlevel="" priv="1"/>
+<table id="tempprueba" name="tempprueba" caption="tempprueba" userlevel="" priv="1"/>
+<table id="tempRetenciones" name="tempRetenciones" caption="temp Retenciones" userlevel="" priv="1"/>
+<table id="timp" name="timp" caption="timp" userlevel="" priv="1"/>
+<table id="tmp" name="tmp" caption="tmp" userlevel="" priv="1"/>
+<table id="tmp_arreglos201009" name="tmp_arreglos201009" caption="tmp arreglos 201009" userlevel="" priv="1"/>
+<table id="tmp_catalogo_activos" name="tmp_catalogo_activos" caption="tmp catalogo activos" userlevel="" priv="1"/>
+<table id="tmp_cheques_det" name="tmp_cheques_det" caption="tmp cheques det" userlevel="" priv="1"/>
+<table id="tmp_cj1" name="tmp_cj1" caption="tmp cj 1" userlevel="" priv="1"/>
+<table id="tmp_cj2" name="tmp_cj2" caption="tmp cj 2" userlevel="" priv="1"/>
+<table id="tmp_doc" name="tmp_doc" caption="tmp doc" userlevel="" priv="1"/>
+<table id="tmp_Familia" name="tmp_Familia" caption="tmp Familia" userlevel="" priv="1"/>
+<table id="tmp_Generico" name="tmp_Generico" caption="tmp Generico" userlevel="" priv="1"/>
+<table id="Tmp_inve02" name="Tmp_inve02" caption="Tmp inve 02" userlevel="" priv="1"/>
+<table id="tmp_inventario" name="tmp_inventario" caption="tmp inventario" userlevel="" priv="1"/>
+<table id="tmp_Linea" name="tmp_Linea" caption="tmp Linea" userlevel="" priv="1"/>
+<table id="tmp_partida_det" name="tmp_partida_det" caption="tmp partida det" userlevel="" priv="1"/>
+<table id="tmp_producto_asoc" name="tmp_producto_asoc" caption="tmp producto asoc" userlevel="" priv="1"/>
+<table id="tmp_productos" name="tmp_productos" caption="tmp productos" userlevel="" priv="1"/>
+<table id="tmp_productosAlt" name="tmp_productosAlt" caption="tmp productos Alt" userlevel="" priv="1"/>
+<table id="Tmp_sap_provisiones_adicionales" name="Tmp_sap_provisiones_adicionales" caption="Tmp sap provisiones adicionales" userlevel="" priv="1"/>
+<table id="tmp_titulos_partida" name="tmp_titulos_partida" caption="tmp titulos partida" userlevel="" priv="1"/>
+<table id="tmpbn_facturas_ctas" name="tmpbn_facturas_ctas" caption="tmpbn facturas ctas" userlevel="" priv="1"/>
+<table id="tmpcheques" name="tmpcheques" caption="tmpcheques" userlevel="" priv="1"/>
+<table id="tmpCtas" name="tmpCtas" caption="tmp Ctas" userlevel="" priv="1"/>
+<table id="tmpfacturas" name="tmpfacturas" caption="tmpfacturas" userlevel="" priv="1"/>
+<table id="tmpfechas" name="tmpfechas" caption="tmpfechas" userlevel="" priv="1"/>
+<table id="tmpImportados" name="tmpImportados" caption="tmp Importados" userlevel="" priv="1"/>
+<table id="tmplibro" name="tmplibro" caption="tmplibro" userlevel="" priv="1"/>
+<table id="tmpmayoriza" name="tmpmayoriza" caption="tmpmayoriza" userlevel="" priv="1"/>
+<table id="tmpMovimientos" name="tmpMovimientos" caption="tmp Movimientos" userlevel="" priv="1"/>
+<table id="tmpMovimientoscxp" name="tmpMovimientoscxp" caption="tmp Movimientoscxp" userlevel="" priv="1"/>
+<table id="tmpno_empleados" name="tmpno_empleados" caption="tmpno empleados" userlevel="" priv="1"/>
+<table id="tmpResumen" name="tmpResumen" caption="tmp Resumen" userlevel="" priv="1"/>
+<table id="tmpSaldos" name="tmpSaldos" caption="tmp Saldos" userlevel="" priv="1"/>
+<table id="tmpSaldos_mensuales" name="tmpSaldos_mensuales" caption="tmp Saldos mensuales" userlevel="" priv="1"/>
+<table id="total1" name="total1" caption="total 1" userlevel="" priv="1"/>
+<table id="Total2" name="Total2" caption="Total 2" userlevel="" priv="1"/>
+<table id="total3" name="total3" caption="total 3" userlevel="" priv="1"/>
+<table id="total4" name="total4" caption="total 4" userlevel="" priv="1"/>
+<table id="Tr_AnulaFactura" name="Tr_AnulaFactura" caption="Tr Anula Factura" userlevel="" priv="1"/>
+<table id="tr_anulaFactura_traslados" name="tr_anulaFactura_traslados" caption="tr anula Factura traslados" userlevel="" priv="1"/>
+<table id="Tr_AnulaNC" name="Tr_AnulaNC" caption="Tr Anula NC" userlevel="" priv="1"/>
+<table id="tr_anulaNC_traslados" name="tr_anulaNC_traslados" caption="tr anula NC traslados" userlevel="" priv="1"/>
+<table id="Tr_AnulaND" name="Tr_AnulaND" caption="Tr Anula ND" userlevel="" priv="1"/>
+<table id="Tr_BitacoraAbonos" name="Tr_BitacoraAbonos" caption="Tr Bitacora Abonos" userlevel="" priv="1"/>
+<table id="Tr_Clientes" name="Tr_Clientes" caption="Tr Clientes" userlevel="" priv="1"/>
+<table id="tr_nccantidad" name="tr_nccantidad" caption="tr nccantidad" userlevel="" priv="1"/>
+<table id="Tr_PreciosProductos" name="Tr_PreciosProductos" caption="Tr Precios Productos" userlevel="" priv="1"/>
+<table id="Tr_PreciosProductosKits" name="Tr_PreciosProductosKits" caption="Tr Precios Productos Kits" userlevel="" priv="1"/>
+<table id="Tr_productoalterno" name="Tr_productoalterno" caption="Tr productoalterno" userlevel="" priv="1"/>
+<table id="tr_productoasociado" name="tr_productoasociado" caption="tr productoasociado" userlevel="" priv="1"/>
+<table id="Tr_productoimagen" name="Tr_productoimagen" caption="Tr productoimagen" userlevel="" priv="1"/>
+<table id="Tr_Productos" name="Tr_Productos" caption="Tr Productos" userlevel="" priv="1"/>
+<table id="Tr_ProductosKits" name="Tr_ProductosKits" caption="Tr Productos Kits" userlevel="" priv="1"/>
+<table id="Tr_UpAbonos" name="Tr_UpAbonos" caption="Tr Up Abonos" userlevel="" priv="1"/>
+<table id="TRANSACCIONES_IM" name="TRANSACCIONES_IM" caption="TRANSACCIONES IM" userlevel="" priv="1"/>
+<table id="Transactions" name="Transactions" caption="Transactions" userlevel="" priv="1"/>
+<table id="TransactionUnit" name="TransactionUnit" caption="Transaction Unit" userlevel="" priv="1"/>
+<table id="trial_acreedores" name="trial_acreedores" caption="trial acreedores" userlevel="" priv="1"/>
+<table id="trial_provee_extra1" name="trial_provee_extra1" caption="trial provee extra 1" userlevel="" priv="1"/>
+<table id="trial_provee_extra2" name="trial_provee_extra2" caption="trial provee extra 2" userlevel="" priv="1"/>
+<table id="trial_proveedores" name="trial_proveedores" caption="trial proveedores" userlevel="" priv="1"/>
+<table id="trno_empleados" name="trno_empleados" caption="trno empleados" userlevel="" priv="1"/>
+<table id="trno_secciones" name="trno_secciones" caption="trno secciones" userlevel="" priv="1"/>
+<table id="TrPd_gruClientes" name="TrPd_gruClientes" caption="Tr Pd gru Clientes" userlevel="" priv="1"/>
+<table id="TrPd_Grupos" name="TrPd_Grupos" caption="Tr Pd Grupos" userlevel="" priv="1"/>
+<table id="TrPd_GruVolumen" name="TrPd_GruVolumen" caption="Tr Pd Gru Volumen" userlevel="" priv="1"/>
+<table id="TrPd_GruVolumenDet" name="TrPd_GruVolumenDet" caption="Tr Pd Gru Volumen Det" userlevel="" priv="1"/>
+<table id="TrPd_Multiplos" name="TrPd_Multiplos" caption="Tr Pd Multiplos" userlevel="" priv="1"/>
+<table id="TrPd_MultiplosDet" name="TrPd_MultiplosDet" caption="Tr Pd Multiplos Det" userlevel="" priv="1"/>
+<table id="TrPd_MultiplosGrupo" name="TrPd_MultiplosGrupo" caption="Tr Pd Multiplos Grupo" userlevel="" priv="1"/>
+<table id="TrPd_MultiplosGrupoDet" name="TrPd_MultiplosGrupoDet" caption="Tr Pd Multiplos Grupo Det" userlevel="" priv="1"/>
+<table id="TrPd_Productos" name="TrPd_Productos" caption="Tr Pd Productos" userlevel="" priv="1"/>
+<table id="Trpd_promociones" name="Trpd_promociones" caption="Trpd promociones" userlevel="" priv="1"/>
+<table id="TrPd_Provolumen" name="TrPd_Provolumen" caption="Tr Pd Provolumen" userlevel="" priv="1"/>
+<table id="TrPd_ProvolumenDet" name="TrPd_ProvolumenDet" caption="Tr Pd Provolumen Det" userlevel="" priv="1"/>
+<table id="TrPd_Sucursales" name="TrPd_Sucursales" caption="Tr Pd Sucursales" userlevel="" priv="1"/>
+<table id="TrPd_tiposPago" name="TrPd_tiposPago" caption="Tr Pd tipos Pago" userlevel="" priv="1"/>
+<table id="trPd_volumen" name="trPd_volumen" caption="tr Pd volumen" userlevel="" priv="1"/>
+<table id="trpd_volumendet" name="trpd_volumendet" caption="trpd volumendet" userlevel="" priv="1"/>
+<table id="Units" name="Units" caption="Units" userlevel="" priv="1"/>
+<table id="UnitTypes" name="UnitTypes" caption="Unit Types" userlevel="" priv="1"/>
+<table id="Up_Cheques_circ" name="Up_Cheques_circ" caption="Up Cheques circ" userlevel="" priv="1"/>
+<table id="upcn_cargainicial" name="upcn_cargainicial" caption="upcn cargainicial" userlevel="" priv="1"/>
+<table id="valorizado" name="valorizado" caption="valorizado" userlevel="" priv="1"/>
+<table id="Varios" name="Varios" caption="Varios" userlevel="" priv="1"/>
+<table id="ve_anuncio_prensa" name="ve_anuncio_prensa" caption="ve anuncio prensa" userlevel="" priv="1"/>
+<table id="ve_anuncio_radio" name="ve_anuncio_radio" caption="ve anuncio radio" userlevel="" priv="1"/>
+<table id="ve_anuncio_revista" name="ve_anuncio_revista" caption="ve anuncio revista" userlevel="" priv="1"/>
+<table id="ve_anuncio_tv" name="ve_anuncio_tv" caption="ve anuncio tv" userlevel="" priv="1"/>
+<table id="ve_areas" name="ve_areas" caption="ve areas" userlevel="" priv="1"/>
+<table id="ve_otros" name="ve_otros" caption="ve otros" userlevel="" priv="1"/>
+<table id="ve_prensa" name="ve_prensa" caption="ve prensa" userlevel="" priv="1"/>
+<table id="ve_pres_otros" name="ve_pres_otros" caption="ve pres otros" userlevel="" priv="1"/>
+<table id="ve_pres_prensa" name="ve_pres_prensa" caption="ve pres prensa" userlevel="" priv="1"/>
+<table id="ve_pres_promocion" name="ve_pres_promocion" caption="ve pres promocion" userlevel="" priv="1"/>
+<table id="ve_pres_publicidad" name="ve_pres_publicidad" caption="ve pres publicidad" userlevel="" priv="1"/>
+<table id="ve_pres_radio" name="ve_pres_radio" caption="ve pres radio" userlevel="" priv="1"/>
+<table id="ve_pres_revista" name="ve_pres_revista" caption="ve pres revista" userlevel="" priv="1"/>
+<table id="ve_pres_tv" name="ve_pres_tv" caption="ve pres tv" userlevel="" priv="1"/>
+<table id="ve_pronostico_detallado" name="ve_pronostico_detallado" caption="ve pronostico detallado" userlevel="" priv="1"/>
+<table id="ve_pronostico_detalle_dia" name="ve_pronostico_detalle_dia" caption="ve pronostico detalle dia" userlevel="" priv="1"/>
+<table id="ve_pronostico_detpro" name="ve_pronostico_detpro" caption="ve pronostico detpro" userlevel="" priv="1"/>
+<table id="ve_pronostico_porcentajes" name="ve_pronostico_porcentajes" caption="ve pronostico porcentajes" userlevel="" priv="1"/>
+<table id="ve_pronostico_promociones" name="ve_pronostico_promociones" caption="ve pronostico promociones" userlevel="" priv="1"/>
+<table id="ve_pronostico_sucursales" name="ve_pronostico_sucursales" caption="ve pronostico sucursales" userlevel="" priv="1"/>
+<table id="ve_pronostico_vendedor" name="ve_pronostico_vendedor" caption="ve pronostico vendedor" userlevel="" priv="1"/>
+<table id="ve_pronosticos_enc" name="ve_pronosticos_enc" caption="ve pronosticos enc" userlevel="" priv="1"/>
+<table id="ve_radios" name="ve_radios" caption="ve radios" userlevel="" priv="1"/>
+<table id="ve_revistas" name="ve_revistas" caption="ve revistas" userlevel="" priv="1"/>
+<table id="ve_secciones" name="ve_secciones" caption="ve secciones" userlevel="" priv="1"/>
+<table id="ve_secciones_detalle" name="ve_secciones_detalle" caption="ve secciones detalle" userlevel="" priv="1"/>
+<table id="ve_segmentos_clientes" name="ve_segmentos_clientes" caption="ve segmentos clientes" userlevel="" priv="1"/>
+<table id="ve_television" name="ve_television" caption="ve television" userlevel="" priv="1"/>
+<table id="WorkIntervals" name="WorkIntervals" caption="Work Intervals" userlevel="" priv="1"/>
+<table id="af_movimientos_v" name="af_movimientos_v" caption="af movimientos v" userlevel="" priv="1"/>
+<table id="af_saldos_activosv" name="af_saldos_activosv" caption="af saldos activosv" userlevel="" priv="1"/>
+<table id="bn_documentosv" name="bn_documentosv" caption="bn documentosv" userlevel="" priv="1"/>
+<table id="bn_documentosv_ctas" name="bn_documentosv_ctas" caption="bn documentosv ctas" userlevel="" priv="1"/>
+<table id="bn_documentosv_det" name="bn_documentosv_det" caption="bn documentosv det" userlevel="" priv="1"/>
+<table id="bn_facturas_chequesv" name="bn_facturas_chequesv" caption="bn facturas chequesv" userlevel="" priv="1"/>
+<table id="bn_pagoproveedoresv" name="bn_pagoproveedoresv" caption="bn pagoproveedoresv" userlevel="" priv="1"/>
+<table id="cc_cargos_abonos_detV" name="cc_cargos_abonos_detV" caption="cc cargos abonos det V" userlevel="" priv="1"/>
+<table id="cc_cargos_abonosV" name="cc_cargos_abonosV" caption="cc cargos abonos V" userlevel="" priv="1"/>
+<table id="cc_detalle_pagos" name="cc_detalle_pagos" caption="cc detalle pagos" userlevel="" priv="1"/>
+<table id="cc_periodosv" name="cc_periodosv" caption="cc periodosv" userlevel="" priv="1"/>
+<table id="cj_pago_facturas" name="cj_pago_facturas" caption="cj pago facturas" userlevel="" priv="1"/>
+<table id="cjEnvioProductosV" name="cjEnvioProductosV" caption="cj Envio Productos V" userlevel="" priv="1"/>
+<table id="cjFacturasImpresasV" name="cjFacturasImpresasV" caption="cj Facturas Impresas V" userlevel="" priv="1"/>
+<table id="cjFacturasPagadasV" name="cjFacturasPagadasV" caption="cj Facturas Pagadas V" userlevel="" priv="1"/>
+<table id="cn_detalle_cuentas" name="cn_detalle_cuentas" caption="cn detalle cuentas" userlevel="" priv="1"/>
+<table id="cn_detalle_cuentasauxv" name="cn_detalle_cuentasauxv" caption="cn detalle cuentasauxv" userlevel="" priv="1"/>
+<table id="cn_PartidasBancosCajav" name="cn_PartidasBancosCajav" caption="cn Partidas Bancos Cajav" userlevel="" priv="1"/>
+<table id="co_ordenesi_detv" name="co_ordenesi_detv" caption="co ordenesi detv" userlevel="" priv="1"/>
+<table id="co_ordenesiv_enc" name="co_ordenesiv_enc" caption="co ordenesiv enc" userlevel="" priv="1"/>
+<table id="co_resumenesv1" name="co_resumenesv1" caption="co resumenesv 1" userlevel="" priv="1"/>
+<table id="co_resumenesv2" name="co_resumenesv2" caption="co resumenesv 2" userlevel="" priv="1"/>
+<table id="co_resumenesv3" name="co_resumenesv3" caption="co resumenesv 3" userlevel="" priv="1"/>
+<table id="co_seguimientosv" name="co_seguimientosv" caption="co seguimientosv" userlevel="" priv="1"/>
+<table id="co_ultimoseguimientov" name="co_ultimoseguimientov" caption="co ultimoseguimientov" userlevel="" priv="1"/>
+<table id="Computo_Cotizaciones_Facturadas" name="Computo_Cotizaciones_Facturadas" caption="Computo Cotizaciones Facturadas" userlevel="" priv="1"/>
+<table id="Computo_Cotizaciones_Facturadas_tiendas" name="Computo_Cotizaciones_Facturadas_tiendas" caption="Computo Cotizaciones Facturadas tiendas" userlevel="" priv="1"/>
+<table id="Computo_Cotizaciones_ParaEstadistica" name="Computo_Cotizaciones_ParaEstadistica" caption="Computo Cotizaciones Para Estadistica" userlevel="" priv="1"/>
+<table id="Computo_Cotizaciones_ParaEstadistica_tiendas" name="Computo_Cotizaciones_ParaEstadistica_tiendas" caption="Computo Cotizaciones Para Estadistica tiendas" userlevel="" priv="1"/>
+<table id="Computo_ListadoTomaFisica" name="Computo_ListadoTomaFisica" caption="Computo Listado Toma Fisica" userlevel="" priv="1"/>
+<table id="computo_revProdcamposvlgx_v" name="computo_revProdcamposvlgx_v" caption="computo rev Prodcamposvlgx v" userlevel="" priv="1"/>
+<table id="computo_revprovcamposvlgx_v" name="computo_revprovcamposvlgx_v" caption="computo revprovcamposvlgx v" userlevel="" priv="1"/>
+<table id="Computo_RptEnviosAClientes" name="Computo_RptEnviosAClientes" caption="Computo Rpt Envios AClientes" userlevel="" priv="1"/>
+<table id="computo_vwin_RptInventarioGeneral" name="computo_vwin_RptInventarioGeneral" caption="computo vwin Rpt Inventario General" userlevel="" priv="1"/>
+<table id="CostCenters" name="CostCenters" caption="Cost Centers" userlevel="" priv="1"/>
+<table id="cp_abonos_a_cuentav" name="cp_abonos_a_cuentav" caption="cp abonos a cuentav" userlevel="" priv="1"/>
+<table id="cp_abonosacuentav" name="cp_abonosacuentav" caption="cp abonosacuentav" userlevel="" priv="1"/>
+<table id="cp_anticipos_saldosv" name="cp_anticipos_saldosv" caption="cp anticipos saldosv" userlevel="" priv="1"/>
+<table id="cp_ctasapagarv" name="cp_ctasapagarv" caption="cp ctasapagarv" userlevel="" priv="1"/>
+<table id="cp_detalle_ajuste" name="cp_detalle_ajuste" caption="cp detalle ajuste" userlevel="" priv="1"/>
+<table id="crm_vw_contactoactividad" name="crm_vw_contactoactividad" caption="crm vw contactoactividad" userlevel="" priv="1"/>
+<table id="Departments" name="Departments" caption="Departments" userlevel="" priv="1"/>
+<table id="Employees" name="Employees" caption="Employees" userlevel="" priv="1"/>
+<table id="im_totalcompraplomerosv" name="im_totalcompraplomerosv" caption="im totalcompraplomerosv" userlevel="" priv="1"/>
+<table id="in_backorderexistenciasv" name="in_backorderexistenciasv" caption="in backorderexistenciasv" userlevel="" priv="1"/>
+<table id="in_existencias_bodegasV" name="in_existencias_bodegasV" caption="in existencias bodegas V" userlevel="" priv="1"/>
+<table id="in_existenciasresumenv" name="in_existenciasresumenv" caption="in existenciasresumenv" userlevel="" priv="1"/>
+<table id="in_existenciasV" name="in_existenciasV" caption="in existencias V" userlevel="" priv="1"/>
+<table id="in_historico_costosv" name="in_historico_costosv" caption="in historico costosv" userlevel="" priv="1"/>
+<table id="in_movimientosdetalladov" name="in_movimientosdetalladov" caption="in movimientosdetalladov" userlevel="" priv="1"/>
+<table id="in_movimientosresumenv" name="in_movimientosresumenv" caption="in movimientosresumenv" userlevel="" priv="1"/>
+<table id="in_movimientosv_det" name="in_movimientosv_det" caption="in movimientosv det" userlevel="" priv="1"/>
+<table id="in_seguimiento_reclamosv" name="in_seguimiento_reclamosv" caption="in seguimiento reclamosv" userlevel="" priv="1"/>
+<table id="in_tomafisicav_enc" name="in_tomafisicav_enc" caption="in tomafisicav enc" userlevel="" priv="1"/>
+<table id="in_traslado_v1" name="in_traslado_v1" caption="in traslado v 1" userlevel="" priv="1"/>
+<table id="in_traslados_proceso_detv" name="in_traslados_proceso_detv" caption="in traslados proceso detv" userlevel="" priv="1"/>
+<table id="in_traslados_procesov" name="in_traslados_procesov" caption="in traslados procesov" userlevel="" priv="1"/>
+<table id="in_ultmovimientosv" name="in_ultmovimientosv" caption="in ultmovimientosv" userlevel="" priv="1"/>
+<table id="Locations" name="Locations" caption="Locations" userlevel="" priv="1"/>
+<table id="mas200_AP_Invoice" name="mas200_AP_Invoice" caption="mas 200 AP Invoice" userlevel="" priv="1"/>
+<table id="mas200_AP_Invoice_Importaciones" name="mas200_AP_Invoice_Importaciones" caption="mas 200 AP Invoice Importaciones" userlevel="" priv="1"/>
+<table id="mas200_AP_Invoice_ImportacionesAnticipo" name="mas200_AP_Invoice_ImportacionesAnticipo" caption="mas 200 AP Invoice Importaciones Anticipo" userlevel="" priv="1"/>
+<table id="mas200_AP_Invoice_ImportacionesBodega" name="mas200_AP_Invoice_ImportacionesBodega" caption="mas 200 AP Invoice Importaciones Bodega" userlevel="" priv="1"/>
+<table id="mas200_AP_Invoice_ImportacionesMonto" name="mas200_AP_Invoice_ImportacionesMonto" caption="mas 200 AP Invoice Importaciones Monto" userlevel="" priv="1"/>
+<table id="maxcorrelativo_facturas" name="maxcorrelativo_facturas" caption="maxcorrelativo facturas" userlevel="" priv="1"/>
+<table id="no_empleado_camposv" name="no_empleado_camposv" caption="no empleado camposv" userlevel="" priv="1"/>
+<table id="no_empleado_egresosv" name="no_empleado_egresosv" caption="no empleado egresosv" userlevel="" priv="1"/>
+<table id="no_empleado_ingresos_detv" name="no_empleado_ingresos_detv" caption="no empleado ingresos detv" userlevel="" priv="1"/>
+<table id="no_empleado_ingresosv" name="no_empleado_ingresosv" caption="no empleado ingresosv" userlevel="" priv="1"/>
+<table id="notipo_valoresv" name="notipo_valoresv" caption="notipo valoresv" userlevel="" priv="1"/>
+<table id="pif_existencias" name="pif_existencias" caption="pif existencias" userlevel="" priv="1"/>
+<table id="pif_preconteos" name="pif_preconteos" caption="pif preconteos" userlevel="" priv="1"/>
+<table id="pv_bitacora_resolucionv" name="pv_bitacora_resolucionv" caption="pv bitacora resolucionv" userlevel="" priv="1"/>
+<table id="pv_bitacorav" name="pv_bitacorav" caption="pv bitacorav" userlevel="" priv="1"/>
+<table id="pv_comisionesvdet" name="pv_comisionesvdet" caption="pv comisionesvdet" userlevel="" priv="1"/>
+<table id="pv_reporte_facturas_promedio" name="pv_reporte_facturas_promedio" caption="pv reporte facturas promedio" userlevel="" priv="1"/>
+<table id="pv_ReporteDocumentos" name="pv_ReporteDocumentos" caption="pv Reporte Documentos" userlevel="" priv="1"/>
+<table id="pv_reporteResoluciones" name="pv_reporteResoluciones" caption="pv reporte Resoluciones" userlevel="" priv="1"/>
+<table id="pv_ventasencv" name="pv_ventasencv" caption="pv ventasencv" userlevel="" priv="1"/>
+<table id="pv_ventasmarcasv" name="pv_ventasmarcasv" caption="pv ventasmarcasv" userlevel="" priv="1"/>
+<table id="Sections" name="Sections" caption="Sections" userlevel="" priv="1"/>
+<table id="vw_AssociatedUnitsTransactions" name="vw_AssociatedUnitsTransactions" caption="vw Associated Units Transactions" userlevel="" priv="1"/>
+<table id="vw_bnGetDetalleSaldosCXP" name="vw_bnGetDetalleSaldosCXP" caption="vw bn Get Detalle Saldos CXP" userlevel="" priv="1"/>
+<table id="vw_EmployeeShifts" name="vw_EmployeeShifts" caption="vw Employee Shifts" userlevel="" priv="1"/>
+<table id="vw_EmployeeTemplates" name="vw_EmployeeTemplates" caption="vw Employee Templates" userlevel="" priv="1"/>
+<table id="vw_no_empleados_aniversario" name="vw_no_empleados_aniversario" caption="vw no empleados aniversario" userlevel="" priv="1"/>
+<table id="vw_no_empleados_cumpleanos" name="vw_no_empleados_cumpleanos" caption="vw no empleados cumpleanos" userlevel="" priv="1"/>
+<table id="vw_NoAssociatedUnitsTransactions" name="vw_NoAssociatedUnitsTransactions" caption="vw No Associated Units Transactions" userlevel="" priv="1"/>
+<table id="vw_nofechaactual" name="vw_nofechaactual" caption="vw nofechaactual" userlevel="" priv="1"/>
+<table id="vw_ShiftEmployees" name="vw_ShiftEmployees" caption="vw Shift Employees" userlevel="" priv="1"/>
+<table id="vwbn_getempleados" name="vwbn_getempleados" caption="vwbn getempleados" userlevel="" priv="1"/>
+<table id="vwbn_getproveedores" name="vwbn_getproveedores" caption="vwbn getproveedores" userlevel="" priv="1"/>
+<table id="vwde_DeCerrados" name="vwde_DeCerrados" caption="vwde De Cerrados" userlevel="" priv="1"/>
+<table id="vwde_EnProceso" name="vwde_EnProceso" caption="vwde En Proceso" userlevel="" priv="1"/>
+<table id="vwde_ProdEntregado" name="vwde_ProdEntregado" caption="vwde Prod Entregado" userlevel="" priv="1"/>
+<table id="vwde_productos" name="vwde_productos" caption="vwde productos" userlevel="" priv="1"/>
+<table id="vwop_cerradas" name="vwop_cerradas" caption="vwop cerradas" userlevel="" priv="1"/>
+<table id="vwop_Externas" name="vwop_Externas" caption="vwop Externas" userlevel="" priv="1"/>
+<table id="vwop_ExternasImp" name="vwop_ExternasImp" caption="vwop Externas Imp" userlevel="" priv="1"/>
+<table id="vwop_impresas" name="vwop_impresas" caption="vwop impresas" userlevel="" priv="1"/>
+<table id="vwop_proceso" name="vwop_proceso" caption="vwop proceso" userlevel="" priv="1"/>
+<table id="vwop_productos" name="vwop_productos" caption="vwop productos" userlevel="" priv="1"/>
+</project></configuration>

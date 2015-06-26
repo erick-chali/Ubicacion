@@ -1,0 +1,21 @@
+/* styles for scrolling table */
+.ewScrollableTable .ewScrollableTableHeader {
+	overflow: hidden;	
+}
+.ewScrollableTable .ewScrollableTableHeader > table {
+	border-collapse: separate;
+}
+.ewScrollableTable .ewScrollableTableHeader .ewScrollableTableOverhang {
+	padding: 0;
+	border: 0;
+	border-bottom: 1px solid; /* header border width */
+	border-color: #9F9F9F; /* header border color */
+	background-color: #9C9AB7; /* header bgcolor	*/
+	background-image: -webkit-linear-gradient(top, #E4E5EF, #9C9AB7);	
+	background-image: linear-gradient(to bottom, #E4E5EF, #9C9AB7);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#E4E5EF', endColorstr='#9C9AB7', GradientType=0);
+	background-repeat: repeat-x;		
+}
+.ewScrollableTable .ewListOptionBody .ewButtonGroup .ewIcon {
+	min-width: 16px;	
+}
